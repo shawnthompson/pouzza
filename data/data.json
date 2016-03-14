@@ -2,711 +2,1601 @@
 	"bands": [
 		{
 			"name": "A Minor Revolution",
-			"link": "https://aminorrevolution.bandcamp.com/"
+			"link": "https://aminorrevolution.bandcamp.com/",
+			"hometown": "Dover, NH",
+			"genre": "Punk Rock",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "A Perfect Murder",
-			"link": "https://www.facebook.com/apmxhc/"
+			"link": "https://www.facebook.com/apmxhc/",
+			"hometown": "Drummondville, Granby, PQ",
+			"genre": "Metal / Hardcore",
+			"similarArtist": [
+				{ "name": "Throwdown" },
+				{ "name": "Full Blown Chaos" },
+				{ "name": "Kings of Sorrow"}
+			]
 		},
 		{
 			"name": "Apes",
-			"link": "https://apesqc.bandcamp.com/"
+			"link": "https://apesqc.bandcamp.com/",
+			"hometown": "Quebec City, PQ",
+			"genre": "Dark hardcore/grind",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Ariane Zita",
-			"link": "https://www.facebook.com/arianezitamusique/?fref=ts"
+			"link": "https://www.facebook.com/arianezitamusique/?fref=ts",
+			"hometown": "Montréal, PQ",
+			"genre": "Indie Folk",
+			"similarArtist": [
+				{ "name": "Chloé Lacasse" },
+				{ "name": "Philémon Cimon" },
+				{ "name": "Chantal Archambault" },
+				{ "name": "Fanny Bloom" }
+			]
 		},
 		{
 			"name": "ATD",
-			"link": "https://www.facebook.com/atdvan/"
+			"link": "https://www.facebook.com/atdvan/",
+			"hometown": "Vancouver, BC",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Ate Bit",
-			"link": "https://atebit.bandcamp.com/releases"
+			"link": "https://atebit.bandcamp.com/releases",
+			"hometown": "Beacon, NY",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Audio Visceral",
-			"link": "https://audiovisceralvkh.bandcamp.com/"
+			"link": "https://audiovisceralvkh.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Avenues",
-			"link": "https://avenuesrock.bandcamp.com/"
+			"link": "https://avenuesrock.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Barrasso",
-			"link": "https://www.facebook.com/barrassomusique"
+			"link": "https://www.facebook.com/barrassomusique",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Barricade",
-			"link": "https://barricadernhc819.bandcamp.com/releases"
+			"link": "https://barricadernhc819.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Bastardous",
-			"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf"
+			"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Behind Deadlines",
-			"link": "https://behinddeadlines.bandcamp.com/"
+			"link": "https://behinddeadlines.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Belvedere",
-			"link": "http://belvedereband.com/"
+			"link": "http://belvedereband.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Better Things",
-			"link": "http://betterthingsband.com/"
+			"link": "http://betterthingsband.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Big D And The Kids Table",
-			"link": "http://www.bigdandthekidstable.com/"
+			"link": "http://www.bigdandthekidstable.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Bike Tuff",
-			"link": "https://bikingtuff.bandcamp.com/"
+			"link": "https://bikingtuff.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Blossom",
-			"link": "https://blossomband.bandcamp.com/releases"
+			"link": "https://blossomband.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Blurry Eyes",
-			"link": "#"
+			"link": "#",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "BOIDS",
-			"link": "https://www.facebook.com/boidsmtl"
+			"link": "https://www.facebook.com/boidsmtl",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Bong Mountain",
-			"link": "https://bngmtn.bandcamp.com/"
+			"link": "https://bngmtn.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Bottle Kids",
-			"link": "https://www.facebook.com/bottlekidschicago/"
+			"link": "https://www.facebook.com/bottlekidschicago/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Brand New Lungs",
-			"link": "https://www.facebook.com/brandnewlungs/?fref=ts"
+			"link": "https://www.facebook.com/brandnewlungs/?fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Break Anchor",
-			"link": "https://breakanchor.bandcamp.com/"
+			"link": "https://breakanchor.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Brendan Kelly",
-			"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k"
+			"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Brutal Youth",
-			"link": "https://brutalyouth.bandcamp.com/"
+			"link": "https://brutalyouth.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Bucky Harris",
-			"link": "https://buckyharris.bandcamp.com/"
+			"link": "https://buckyharris.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Charles Landry",
-			"link": "https://www.facebook.com/tonplusfort/"
+			"link": "https://www.facebook.com/tonplusfort/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Chuck Coles",
-			"link": "https://chuckcoles.bandcamp.com/releases"
+			"link": "https://chuckcoles.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "City Mouse",
-			"link": "https://citymouse.bandcamp.com/"
+			"link": "https://citymouse.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Colour Wheel",
-			"link": "http://colourwheelsongs.bandcamp.com"
+			"link": "http://colourwheelsongs.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Comedy Acts",
-			"link": "#"
+			"link": "#",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Condition Oakland",
-			"link": "https://conditionoaklandpa.bandcamp.com/"
+			"link": "https://conditionoaklandpa.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Curt Murder",
-			"link": "https://curtmurderfanclub.bandcamp.com/"
+			"link": "https://curtmurderfanclub.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Cut Up",
-			"link": "https://www.facebook.com/cutupsf/"
+			"link": "https://www.facebook.com/cutupsf/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dark Circles",
-			"link": "https://darkcircles.bandcamp.com/"
+			"link": "https://darkcircles.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dead Broke",
-			"link": "http://deadbrokeband.com/"
+			"link": "http://deadbrokeband.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "DEAD TO ME",
-			"link": "https://www.facebook.com/deadtomesf"
+			"link": "https://www.facebook.com/deadtomesf",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dead Weights",
-			"link": "https://deadweights.bandcamp.com/"
+			"link": "https://deadweights.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dead Words",
-			"link": "https://deadwordstx.bandcamp.com/"
+			"link": "https://deadwordstx.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Deeper Well",
-			"link": "https://deeperwell.bandcamp.com/"
+			"link": "https://deeperwell.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Deja Mort",
-			"link": "https://www.facebook.com/dejamortmusique/"
+			"link": "https://www.facebook.com/dejamortmusique/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dig It Up",
-			"link": "https://digitup.bandcamp.com/"
+			"link": "https://digitup.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dirty Kills",
-			"link": "https://dirtykills.bandcamp.com/"
+			"link": "https://dirtykills.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dowsing",
-			"link": "https://www.facebook.com/Dowsingband/"
+			"link": "https://www.facebook.com/Dowsingband/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Dragged In",
-			"link": "https://draggedin.bandcamp.com/"
+			"link": "https://draggedin.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Drug Church",
-			"link": "https://www.facebook.com/drugchurch/"
+			"link": "https://www.facebook.com/drugchurch/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Due North",
-			"link": "https://duenorth.bandcamp.com/"
+			"link": "https://duenorth.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Elder Abuse",
-			"link": "https://elderabuse.bandcamp.com/"
+			"link": "https://elderabuse.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Enforcers",
-			"link": "https://www.facebook.com/EnForcersmtl/"
+			"link": "https://www.facebook.com/EnForcersmtl/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Escape Uken!",
-			"link": "https://escapeuken.bandpage.com/"
+			"link": "https://escapeuken.bandpage.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Excess",
-			"link": "https://excessmtl.bandcamp.com/"
+			"link": "https://excessmtl.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Five Minute Major",
-			"link": "https://fiveminutemajor.bandcamp.com/"
+			"link": "https://fiveminutemajor.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Flatfoot 56",
-			"link": "http://www.flatfoot56.com/"
+			"link": "http://www.flatfoot56.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Fourth Son",
-			"link": "https://www.facebook.com/fourthsonhc"
+			"link": "https://www.facebook.com/fourthsonhc",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Frank &amp; Earnest",
-			"link": "https://frankandearnest.bandcamp.com/"
+			"link": "https://frankandearnest.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Fucko",
-			"link": "https://fucko.bandcamp.com/"
+			"link": "https://fucko.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Full Of Hell",
-			"link": "https://www.facebook.com/fullofhell/"
+			"link": "https://www.facebook.com/fullofhell/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Get Dead",
-			"link": "https://www.facebook.com/getdeadband"
+			"link": "https://www.facebook.com/getdeadband",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Get The Shot",
-			"link": "https://gettheshot.bandcamp.com/"
+			"link": "https://gettheshot.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Golden Python",
-			"link": "https://golden-python.bandcamp.com/"
+			"link": "https://golden-python.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Green Cup",
-			"link": "https://www.facebook.com/Green-Cup-11685472553/"
+			"link": "https://www.facebook.com/Green-Cup-11685472553/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Half Truth",
-			"link": "https://halftruthmtl.bandcamp.com/"
+			"link": "https://halftruthmtl.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Harriers",
-			"link": "https://harriersmtl.bandcamp.com/"
+			"link": "https://harriersmtl.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Head Down",
-			"link": "https://www.facebook.com/HeadDownMusic/"
+			"link": "https://www.facebook.com/HeadDownMusic/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "In The Meantime",
-			"link": "https://www.facebook.com/inthemeantimeboston/"
+			"link": "https://www.facebook.com/inthemeantimeboston/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Insubordination",
-			"link": "https://insubordination.bandcamp.com/"
+			"link": "https://insubordination.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Jabber",
-			"link": "https://jabberpop.bandcamp.com/"
+			"link": "https://jabberpop.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Jenn Fiorentino",
-			"link": "http://jennfiorentino.com/"
+			"link": "http://jennfiorentino.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Jesse Lebourdais",
-			"link": "https://jesselebourdais.bandcamp.com/"
+			"link": "https://jesselebourdais.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Jonathan Becker",
-			"link": "https://jonathanbecker.bandcamp.com/"
+			"link": "https://jonathanbecker.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Julius Sumner Miller",
-			"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/"
+			"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Junior Battles",
-			"link": "https://www.facebook.com/juniorbattles"
+			"link": "https://www.facebook.com/juniorbattles",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Katie Ellen (ex-Chumped)",
-			"link": "https://katiebandellen.bandcamp.com/"
+			"link": "https://katiebandellen.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Kittyhawk",
-			"link": "https://www.facebook.com/apmxhc/"
+			"link": "https://www.facebook.com/apmxhc/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "La Armada",
-			"link": "https://armadahardcore.bandcamp.com/"
+			"link": "https://armadahardcore.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "La Querelle",
-			"link": "https://laquerelle.bandcamp.com/"
+			"link": "https://laquerelle.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Late Night Munchies",
-			"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/"
+			"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Lemuria",
-			"link": "http://www.lemuriapop.com/"
+			"link": "http://www.lemuriapop.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Les Breastfeeders",
-			"link": "http://www.lesbreastfeeders.ca/en"
+			"link": "http://www.lesbreastfeeders.ca/en",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Les Happycuriens",
-			"link": "https://leshappycuriens.bandcamp.com/"
+			"link": "https://leshappycuriens.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Less Than Jake",
-			"link": "http://www.lessthanjake.com/"
+			"link": "http://www.lessthanjake.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Loss Aversion",
-			"link": "https://www.facebook.com/lossaversion/"
+			"link": "https://www.facebook.com/lossaversion/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Lost Love",
-			"link": "https://lostlove.bandcamp.com/"
+			"link": "https://lostlove.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Malfunction",
-			"link": "https://www.facebook.com/Malfunctionhc/"
+			"link": "https://www.facebook.com/Malfunctionhc/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Mansbridge",
-			"link": "https://www.facebook.com/mansbridgetheband/"
+			"link": "https://www.facebook.com/mansbridgetheband/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Meat Wave",
-			"link": "https://meatwavechicago.bandcamp.com/"
+			"link": "https://meatwavechicago.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Merauder",
-			"link": "http://www.facebook.com/merauderNY"
+			"link": "http://www.facebook.com/merauderNY",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Merci Beaute",
-			"link": "http://liguerock.com/LR3/band/merci-beaute"
+			"link": "http://liguerock.com/LR3/band/merci-beaute",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Molly Drag",
-			"link": "https://mollydrag.bandcamp.com/"
+			"link": "https://mollydrag.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Molly Rhythm",
-			"link": "https://mollyrhythm.bandcamp.com/"
+			"link": "https://mollyrhythm.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Morgan",
-			"link": "https://www.facebook.com/morganband/?fref=ts"
+			"link": "https://www.facebook.com/morganband/?fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Mountain Man",
-			"link": "https://www.facebook.com/mountainmanhc"
+			"link": "https://www.facebook.com/mountainmanhc",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Murderburgers",
-			"link": "https://themurderburgers.bandcamp.com/"
+			"link": "https://themurderburgers.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Neck",
-			"link": "https://necktunes.bandcamp.com/"
+			"link": "https://necktunes.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Night Birds",
-			"link": "https://www.facebook.com/NGHTBRDS/"
+			"link": "https://www.facebook.com/NGHTBRDS/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Nightmares For A Week",
-			"link": "https://nightmaresforaweek.bandcamp.com/"
+			"link": "https://nightmaresforaweek.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Ninjas N Aliens",
-			"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album"
+			"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Nuke",
-			"link": "https://www.facebook.com/NUKEMTL"
+			"link": "https://www.facebook.com/NUKEMTL",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "OC-45",
-			"link": "https://oc45.bandcamp.com/"
+			"link": "https://oc45.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Oh My Snare!",
-			"link": "https://ohmysnare.bandcamp.com/"
+			"link": "https://ohmysnare.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Old Towns",
-			"link": "oldtowns.bandcamp.com"
+			"link": "oldtowns.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "On The Cinder",
-			"link": "https://onthecinder.bandcamp.com/"
+			"link": "https://onthecinder.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "One Flight Down",
-			"link": "https://oneflightdown.bandcamp.com/releases"
+			"link": "https://oneflightdown.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Pale Lips",
-			"link": "https://palelips.bandcamp.com/"
+			"link": "https://palelips.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Peace Be Still",
-			"link": "https://peacebestill.bandcamp.com/"
+			"link": "https://peacebestill.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Pistols At Dawn",
-			"link": "http://www.pistolsatdawnpunk.bandcamp.com/"
+			"link": "http://www.pistolsatdawnpunk.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Pkew Pkew Pkew",
-			"link": "https://pkewx3.bandcamp.com/"
+			"link": "https://pkewx3.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "PL Mafia",
-			"link": "https://plmafia.bandcamp.com/"
+			"link": "https://plmafia.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Pluum",
-			"link": "https://pluum.bandcamp.com/"
+			"link": "https://pluum.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Prowl",
-			"link": "#"
+			"link": "#",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Ray Rocket (Teenage Bottlerocket)",
-			"link": "http://teenagebottlerocket.com/"
+			"link": "http://teenagebottlerocket.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Rebuilder",
-			"link": "https://rebuilderboston.bandcamp.com/"
+			"link": "https://rebuilderboston.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Red Arms",
-			"link": "http://redarms.bandcamp.com"
+			"link": "http://redarms.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Red Mass",
-			"link": "http://redmassmusic.com/"
+			"link": "http://redmassmusic.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Ringworm",
-			"link": "https://www.facebook.com/Ringworm13/"
+			"link": "https://www.facebook.com/Ringworm13/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Rusty Feather",
-			"link": "https://rustyfeather.bandcamp.com/"
+			"link": "https://rustyfeather.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "S.T.O.P",
-			"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts"
+			"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sabotage",
-			"link": "http://sabotagehc.bandcamp.com"
+			"link": "http://sabotagehc.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sammy Kay",
-			"link": "https://www.facebook.com/sammykaynj/"
+			"link": "https://www.facebook.com/sammykaynj/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Save Ends",
-			"link": "https://saveends.bandcamp.com/"
+			"link": "https://saveends.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Scare",
-			"link": "https://scareqc.bandcamp.com/"
+			"link": "https://scareqc.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "School Damage",
-			"link": "https://www.facebook.com/schooldamage"
+			"link": "https://www.facebook.com/schooldamage",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Seth Anderson",
-			"link": "http://www.sethandersonmusic.com/"
+			"link": "http://www.sethandersonmusic.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sick Of It All",
-			"link": "http://www.sickofitall.com/"
+			"link": "http://www.sickofitall.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sink Or Swim",
-			"link": "https://sinkorswimvt.bandcamp.com/"
+			"link": "https://sinkorswimvt.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sketchy",
-			"link": "https://thebandsketchy.bandcamp.com/"
+			"link": "https://thebandsketchy.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Speed Massacre",
-			"link": "https://speedmassacremtl.bandcamp.com/"
+			"link": "https://speedmassacremtl.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Stereomonroe",
-			"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts"
+			"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Strengthen What Remains",
-			"link": "https://www.facebook.com/strengthenwhatremains"
+			"link": "https://www.facebook.com/strengthenwhatremains",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Stuck Out Here",
-			"link": "https://stuckouthere.bandcamp.com/"
+			"link": "https://stuckouthere.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Such Gold",
-			"link": "https://www.facebook.com/suchgold"
+			"link": "https://www.facebook.com/suchgold",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Suicide Machines",
-			"link": "https://www.facebook.com/suicidemachinesdetroit"
+			"link": "https://www.facebook.com/suicidemachinesdetroit",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Sunday",
-			"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts"
+			"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Swinging Flaws",
-			"link": "https://swingingflaws.bandcamp.com/"
+			"link": "https://swingingflaws.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Talk Show Host",
-			"link": "https://welovetalkshowhost.bandcamp.com/releases"
+			"link": "https://welovetalkshowhost.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Teenage Halloween",
-			"link": "https://tngehllwn.bandcamp.com/releases"
+			"link": "https://tngehllwn.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Beatdown",
-			"link": "https://www.facebook.com/TheBeatdown"
+			"link": "https://www.facebook.com/TheBeatdown",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Cardboard Swords",
-			"link": "http://thecardboardswords.com/"
+			"link": "http://thecardboardswords.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Copyrights",
-			"link": "https://www.facebook.com/thecopyrightsband/?fref=ts"
+			"link": "https://www.facebook.com/thecopyrightsband/?fref=ts",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Creeps",
-			"link": "https://thecreeps.bandcamp.com/"
+			"link": "https://thecreeps.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Dewtons",
-			"link": "https://www.facebook.com/The-Dewtons-175460225798687/"
+			"link": "https://www.facebook.com/The-Dewtons-175460225798687/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Dreadnoughts",
-			"link": "https://www.facebook.com/thedreadnoughts/"
+			"link": "https://www.facebook.com/thedreadnoughts/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Drunken Wobblies",
-			"link": "https://thedrunkenwobblies.bandcamp.com/"
+			"link": "https://thedrunkenwobblies.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Filthy Radicals",
-			"link": "https://thefilthyradicals1.bandcamp.com/"
+			"link": "https://thefilthyradicals1.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Fleshtones",
-			"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/"
+			"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Hunters",
-			"link": "http://thehuntersmusic.com/"
+			"link": "http://thehuntersmusic.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Lippies",
-			"link": "https://thelippies.bandcamp.com/releases"
+			"link": "https://thelippies.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Nasties",
-			"link": "http://www.thenasties.net/"
+			"link": "http://www.thenasties.net/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Penske File",
-			"link": "https://www.facebook.com/thepenskefile/"
+			"link": "https://www.facebook.com/thepenskefile/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Planet Smashers",
-			"link": "https://www.facebook.com/ThePlanetSmashers/"
+			"link": "https://www.facebook.com/ThePlanetSmashers/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Putz",
-			"link": "http://theputz.bandcamp.com/music"
+			"link": "http://theputz.bandcamp.com/music",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Raging Nathans",
-			"link": "https://www.facebook.com/TheRagingNathans/"
+			"link": "https://www.facebook.com/TheRagingNathans/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Red Owls",
-			"link": "https://www.facebook.com/theredowls/"
+			"link": "https://www.facebook.com/theredowls/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Rememberables",
-			"link": "https://www.facebook.com/rememberables/"
+			"link": "https://www.facebook.com/rememberables/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "the sainte catherines",
-			"link": "#"
+			"link": "#",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Slow Death",
-			"link": "https://www.facebook.com/theslowdeath/"
+			"link": "https://www.facebook.com/theslowdeath/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Snails",
-			"link": "https://thesnailsband.bandcamp.com/"
+			"link": "https://thesnailsband.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Stragglers",
-			"link": "https://stragglers.bandcamp.com/"
+			"link": "https://stragglers.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Valveenus",
-			"link": "https://valveenus.bandcamp.com/"
+			"link": "https://valveenus.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "The Weak Days",
-			"link": "https://thaweakdays.bandcamp.com/"
+			"link": "https://thaweakdays.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Townes Cosentino",
-			"link": "https://townescosentino.bandcamp.com/"
+			"link": "https://townescosentino.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Trail of Lies",
-			"link": "https://www.facebook.com/trailoflies315/"
+			"link": "https://www.facebook.com/trailoflies315/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Trophy Lungs",
-			"link": "https://trophylungs.bandcamp.com/"
+			"link": "https://trophylungs.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "TRSTSS",
-			"link": "https://trstss.bandcamp.com/releases"
+			"link": "https://trstss.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Typesetter",
-			"link": "https://typesetter.bandcamp.com/"
+			"link": "https://typesetter.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Undesirable People",
-			"link": "https://www.facebook.com/undesirablepeople/"
+			"link": "https://www.facebook.com/undesirablepeople/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Up For Nothing",
-			"link": "https://upfornothing.bandcamp.com/"
+			"link": "https://upfornothing.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Vulgar Deli",
-			"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf"
+			"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Walk The Plank",
-			"link": "http://walktheplank.bandcamp.com"
+			"link": "http://walktheplank.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Wasted Potential",
-			"link": "https://wastedpotential.bandcamp.com/"
+			"link": "https://wastedpotential.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Wayne Kennedy",
-			"link": "https://waynekennedy.bandcamp.com/releases"
+			"link": "https://waynekennedy.bandcamp.com/releases",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "WD40",
-			"link": "https://wd-40.bandcamp.com/"
+			"link": "https://wd-40.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Weak Ends",
-			"link": "https://weakends.bandcamp.com/"
+			"link": "https://weakends.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Wild Side",
-			"link": "https://wildsidehc.bandcamp.com"
+			"link": "https://wildsidehc.bandcamp.com",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Windoc",
-			"link": "https://windoc.bandcamp.com/"
+			"link": "https://windoc.bandcamp.com/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "Wolf-Face",
-			"link": "https://www.facebook.com/pubesonmyface/"
+			"link": "https://www.facebook.com/pubesonmyface/",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		},
 		{
 			"name": "You Vandal",
-			"link": "https://www.facebook.com/youvandalfl"
+			"link": "https://www.facebook.com/youvandalfl",
+			"hometown": "",
+			"genre": "",
+			"similarArtist": [
+				{ "name": "" }
+			]
 		}
 	]
 }
