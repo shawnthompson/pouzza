@@ -5,12 +5,13 @@
 			"link": "https://aminorrevolution.bandcamp.com/",
 			"hometown": "Dover, NH",
 			"genre": "Punk Rock",
+			"description": "A Minor Revolution is a new hampshire punk rock band featuring a pair of saxophones to give a dark-ska influence to their already unique punk sound.",
 			"image": "",
 			"events": [
 				{
-					"venue": "",
-					"date": "",
-					"time": ""
+					"venue": "That Place",
+					"date": "2016-05-20",
+					"time": "19:00"
 				}
 			],
 			"similarArtist": [
@@ -22,12 +23,13 @@
 			"link": "https://www.facebook.com/apmxhc/",
 			"hometown": "Drummondville, Granby, PQ",
 			"genre": "Metal / Hardcore",
+			"description": "While it can be argued that some cats indeed have nine lives, the same cannot always be said about metal and hardcore bands, with even the luckiest enjoying two but rarely more. Sprouting up nearly six years ago from the extreme music mecca of Canada and even North America at large, Montreal Quebec, A Perfect Murder beat the odds and are now on their third or fourth life at least. But time is still on their side; the band began recording when still in their teens, highlighting an early appetite for crafting heavy music not unlike legendary acts Led Zeppelin, Black Sabbath, Metallica, and Pantera did during their formative years.",
 			"image": "",
 			"events": [
 				{
-					"venue": "",
-					"date": "",
-					"time": ""
+					"venue": "That Place",
+					"date": "2016-05-21",
+					"time": "21:00"
 				}
 			],
 			"similarArtist": [
@@ -41,12 +43,13 @@
 			"link": "https://apesqc.bandcamp.com/",
 			"hometown": "Quebec City, PQ",
 			"genre": "Dark hardcore/grind",
+			"description": "No heaven, no hell, just pain, then death ",
 			"image": "",
 			"events": [
 				{
-					"venue": "",
-					"date": "",
-					"time": ""
+					"venue": "That Other Place",
+					"date": "2016-05-22",
+					"time": "10:00"
 				}
 			],
 			"similarArtist": [
@@ -58,6 +61,7 @@
 			"link": "https://www.facebook.com/arianezitamusique/?fref=ts",
 			"hometown": "Montréal, PQ",
 			"genre": "Indie Folk",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -78,7 +82,8 @@
 			"link": "https://www.facebook.com/atdvan/",
 			"hometown": "Vancouver, BC",
 			"genre": "",
-			"image": "",
+			"description": "",
+			"image": "https://f1.bcbits.com/img/0006287720_21.jpg",
 			"events": [
 				{
 					"venue": "",
@@ -95,6 +100,7 @@
 			"link": "https://atebit.bandcamp.com/releases",
 			"hometown": "Beacon, NY",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -112,6 +118,7 @@
 			"link": "https://audiovisceralvkh.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -129,6 +136,7 @@
 			"link": "https://avenuesrock.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -146,6 +154,7 @@
 			"link": "https://www.facebook.com/barrassomusique",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -163,6 +172,7 @@
 			"link": "https://barricadernhc819.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -180,6 +190,7 @@
 			"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -197,6 +208,7 @@
 			"link": "https://behinddeadlines.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -214,6 +226,7 @@
 			"link": "http://belvedereband.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/belvedere.jpg",
 			"events": [
 				{
@@ -231,6 +244,7 @@
 			"link": "http://betterthingsband.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -248,6 +262,7 @@
 			"link": "http://www.bigdandthekidstable.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/bigd.jpg",
 			"events": [
 				{
@@ -265,6 +280,7 @@
 			"link": "https://bikingtuff.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -282,6 +298,7 @@
 			"link": "https://blossomband.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -299,6 +316,7 @@
 			"link": "#",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -316,6 +334,7 @@
 			"link": "https://www.facebook.com/boidsmtl",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -333,6 +352,7 @@
 			"link": "https://bngmtn.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -350,6 +370,7 @@
 			"link": "https://www.facebook.com/bottlekidschicago/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -367,6 +388,7 @@
 			"link": "https://www.facebook.com/brandnewlungs/?fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -384,6 +406,7 @@
 			"link": "https://breakanchor.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -401,6 +424,7 @@
 			"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/brendankelly.jpg",
 			"events": [
 				{
@@ -418,6 +442,7 @@
 			"link": "https://brutalyouth.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -435,6 +460,7 @@
 			"link": "https://buckyharris.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -452,6 +478,7 @@
 			"link": "https://www.facebook.com/tonplusfort/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -469,6 +496,7 @@
 			"link": "https://chuckcoles.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -486,6 +514,7 @@
 			"link": "https://citymouse.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -503,6 +532,7 @@
 			"link": "http://colourwheelsongs.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -520,6 +550,7 @@
 			"link": "#",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -537,6 +568,7 @@
 			"link": "https://conditionoaklandpa.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -554,6 +586,7 @@
 			"link": "https://curtmurderfanclub.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -571,6 +604,7 @@
 			"link": "https://www.facebook.com/cutupsf/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -588,6 +622,7 @@
 			"link": "https://darkcircles.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -605,6 +640,7 @@
 			"link": "http://deadbrokeband.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -622,6 +658,7 @@
 			"link": "https://www.facebook.com/deadtomesf",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/deadtome.jpg",
 			"events": [
 				{
@@ -639,6 +676,7 @@
 			"link": "https://deadweights.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -656,6 +694,7 @@
 			"link": "https://deadwordstx.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -673,6 +712,7 @@
 			"link": "https://deeperwell.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -690,6 +730,7 @@
 			"link": "https://www.facebook.com/dejamortmusique/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -707,6 +748,7 @@
 			"link": "https://digitup.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -724,6 +766,7 @@
 			"link": "https://dirtykills.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -741,6 +784,7 @@
 			"link": "https://www.facebook.com/Dowsingband/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -758,6 +802,7 @@
 			"link": "https://draggedin.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -775,6 +820,7 @@
 			"link": "https://www.facebook.com/drugchurch/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -792,6 +838,7 @@
 			"link": "https://duenorth.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -809,6 +856,7 @@
 			"link": "https://elderabuse.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -826,6 +874,7 @@
 			"link": "https://www.facebook.com/EnForcersmtl/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -843,6 +892,7 @@
 			"link": "https://escapeuken.bandpage.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -860,6 +910,7 @@
 			"link": "https://excessmtl.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -877,6 +928,7 @@
 			"link": "https://fiveminutemajor.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -894,6 +946,7 @@
 			"link": "http://www.flatfoot56.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -911,6 +964,7 @@
 			"link": "https://www.facebook.com/fourthsonhc",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -928,6 +982,7 @@
 			"link": "https://frankandearnest.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -945,6 +1000,7 @@
 			"link": "https://fucko.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -962,6 +1018,7 @@
 			"link": "https://www.facebook.com/fullofhell/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -979,6 +1036,7 @@
 			"link": "https://www.facebook.com/getdeadband",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/getdead.jpg",
 			"events": [
 				{
@@ -996,6 +1054,7 @@
 			"link": "https://gettheshot.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1013,6 +1072,7 @@
 			"link": "https://golden-python.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1030,6 +1090,7 @@
 			"link": "https://www.facebook.com/Green-Cup-11685472553/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1047,6 +1108,7 @@
 			"link": "https://halftruthmtl.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1064,6 +1126,7 @@
 			"link": "https://harriersmtl.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1081,6 +1144,7 @@
 			"link": "https://www.facebook.com/HeadDownMusic/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1098,6 +1162,7 @@
 			"link": "https://www.facebook.com/inthemeantimeboston/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1115,6 +1180,7 @@
 			"link": "https://insubordination.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1132,6 +1198,7 @@
 			"link": "https://jabberpop.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1149,6 +1216,7 @@
 			"link": "http://jennfiorentino.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1166,6 +1234,7 @@
 			"link": "https://jesselebourdais.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1183,6 +1252,7 @@
 			"link": "https://jonathanbecker.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1200,6 +1270,7 @@
 			"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1217,6 +1288,7 @@
 			"link": "https://www.facebook.com/juniorbattles",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1234,6 +1306,7 @@
 			"link": "https://katiebandellen.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1251,6 +1324,7 @@
 			"link": "https://www.facebook.com/apmxhc/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1268,6 +1342,7 @@
 			"link": "https://armadahardcore.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1285,6 +1360,7 @@
 			"link": "https://laquerelle.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1302,6 +1378,7 @@
 			"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/nightbirds.jpg",
 			"events": [
 				{
@@ -1319,6 +1396,7 @@
 			"link": "http://www.lemuriapop.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/lemuria.jpg",
 			"events": [
 				{
@@ -1336,6 +1414,7 @@
 			"link": "http://www.lesbreastfeeders.ca/en",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/breastfeeders.jpg",
 			"events": [
 				{
@@ -1353,6 +1432,7 @@
 			"link": "https://leshappycuriens.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1370,6 +1450,7 @@
 			"link": "http://www.lessthanjake.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/lessthanjake2.png",
 			"events": [
 				{
@@ -1387,6 +1468,7 @@
 			"link": "https://www.facebook.com/lossaversion/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1404,6 +1486,7 @@
 			"link": "https://lostlove.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1421,6 +1504,7 @@
 			"link": "https://www.facebook.com/Malfunctionhc/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1438,6 +1522,7 @@
 			"link": "https://www.facebook.com/mansbridgetheband/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1455,6 +1540,7 @@
 			"link": "https://meatwavechicago.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1472,6 +1558,7 @@
 			"link": "http://www.facebook.com/merauderNY",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/merauder.jpg",
 			"events": [
 				{
@@ -1489,6 +1576,7 @@
 			"link": "http://liguerock.com/LR3/band/merci-beaute",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1506,6 +1594,7 @@
 			"link": "https://mollydrag.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1523,6 +1612,7 @@
 			"link": "https://mollyrhythm.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1540,6 +1630,7 @@
 			"link": "https://www.facebook.com/morganband/?fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1557,6 +1648,7 @@
 			"link": "https://www.facebook.com/mountainmanhc",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1574,6 +1666,7 @@
 			"link": "https://themurderburgers.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1591,6 +1684,7 @@
 			"link": "https://necktunes.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1608,6 +1702,7 @@
 			"link": "https://www.facebook.com/NGHTBRDS/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1625,6 +1720,7 @@
 			"link": "https://nightmaresforaweek.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1642,6 +1738,7 @@
 			"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1659,6 +1756,7 @@
 			"link": "https://www.facebook.com/NUKEMTL",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1676,6 +1774,7 @@
 			"link": "https://oc45.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1693,6 +1792,7 @@
 			"link": "https://ohmysnare.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1710,6 +1810,7 @@
 			"link": "oldtowns.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1727,6 +1828,7 @@
 			"link": "https://onthecinder.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1744,6 +1846,7 @@
 			"link": "https://oneflightdown.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1761,6 +1864,7 @@
 			"link": "https://palelips.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1778,6 +1882,7 @@
 			"link": "https://peacebestill.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1795,6 +1900,7 @@
 			"link": "http://www.pistolsatdawnpunk.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1812,6 +1918,7 @@
 			"link": "https://pkewx3.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1829,6 +1936,7 @@
 			"link": "https://plmafia.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1846,6 +1954,7 @@
 			"link": "https://pluum.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1863,6 +1972,7 @@
 			"link": "#",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1880,6 +1990,7 @@
 			"link": "http://teenagebottlerocket.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1897,6 +2008,7 @@
 			"link": "https://rebuilderboston.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1914,6 +2026,7 @@
 			"link": "http://redarms.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1931,6 +2044,7 @@
 			"link": "http://redmassmusic.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1948,6 +2062,7 @@
 			"link": "https://www.facebook.com/Ringworm13/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/ringworm.jpg",
 			"events": [
 				{
@@ -1965,6 +2080,7 @@
 			"link": "https://rustyfeather.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1982,6 +2098,7 @@
 			"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -1999,6 +2116,7 @@
 			"link": "http://sabotagehc.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2016,6 +2134,7 @@
 			"link": "https://www.facebook.com/sammykaynj/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2033,6 +2152,7 @@
 			"link": "https://saveends.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2050,6 +2170,7 @@
 			"link": "https://scareqc.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2067,6 +2188,7 @@
 			"link": "https://www.facebook.com/schooldamage",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2084,6 +2206,7 @@
 			"link": "http://www.sethandersonmusic.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2101,6 +2224,7 @@
 			"link": "http://www.sickofitall.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/sickofitall.jpg",
 			"events": [
 				{
@@ -2118,6 +2242,7 @@
 			"link": "https://sinkorswimvt.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2135,6 +2260,7 @@
 			"link": "https://thebandsketchy.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2152,6 +2278,7 @@
 			"link": "https://speedmassacremtl.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2169,6 +2296,7 @@
 			"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2186,6 +2314,7 @@
 			"link": "https://www.facebook.com/strengthenwhatremains",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2203,6 +2332,7 @@
 			"link": "https://stuckouthere.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2220,6 +2350,7 @@
 			"link": "https://www.facebook.com/suchgold",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/suchgold.jpg",
 			"events": [
 				{
@@ -2237,6 +2368,7 @@
 			"link": "https://www.facebook.com/suicidemachinesdetroit",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/suicidemachines.jpg",
 			"events": [
 				{
@@ -2254,6 +2386,7 @@
 			"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2271,6 +2404,7 @@
 			"link": "https://swingingflaws.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2288,6 +2422,7 @@
 			"link": "https://welovetalkshowhost.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2305,6 +2440,7 @@
 			"link": "https://tngehllwn.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2322,6 +2458,7 @@
 			"link": "https://www.facebook.com/TheBeatdown",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2339,6 +2476,7 @@
 			"link": "http://thecardboardswords.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2356,6 +2494,7 @@
 			"link": "https://www.facebook.com/thecopyrightsband/?fref=ts",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2373,6 +2512,7 @@
 			"link": "https://thecreeps.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2390,6 +2530,7 @@
 			"link": "https://www.facebook.com/The-Dewtons-175460225798687/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2407,6 +2548,7 @@
 			"link": "https://www.facebook.com/thedreadnoughts/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/dreadnoughts.jpg",
 			"events": [
 				{
@@ -2424,6 +2566,7 @@
 			"link": "https://thedrunkenwobblies.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2441,6 +2584,7 @@
 			"link": "https://thefilthyradicals1.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2458,6 +2602,7 @@
 			"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
 			"events": [
 				{
@@ -2475,6 +2620,7 @@
 			"link": "http://thehuntersmusic.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2492,6 +2638,7 @@
 			"link": "https://thelippies.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2509,6 +2656,7 @@
 			"link": "http://www.thenasties.net/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2526,6 +2674,7 @@
 			"link": "https://www.facebook.com/thepenskefile/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2543,6 +2692,7 @@
 			"link": "https://www.facebook.com/ThePlanetSmashers/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/planetsmashers.jpg",
 			"events": [
 				{
@@ -2560,6 +2710,7 @@
 			"link": "http://theputz.bandcamp.com/music",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2577,6 +2728,7 @@
 			"link": "https://www.facebook.com/TheRagingNathans/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2594,6 +2746,7 @@
 			"link": "https://www.facebook.com/theredowls/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2611,6 +2764,7 @@
 			"link": "https://www.facebook.com/rememberables/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2628,6 +2782,7 @@
 			"link": "#",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "http://pouzzafest.com/images/bands/sainte4.jpg",
 			"events": [
 				{
@@ -2645,6 +2800,7 @@
 			"link": "https://www.facebook.com/theslowdeath/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2662,6 +2818,7 @@
 			"link": "https://thesnailsband.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2679,6 +2836,7 @@
 			"link": "https://stragglers.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2696,6 +2854,7 @@
 			"link": "https://valveenus.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2713,6 +2872,7 @@
 			"link": "https://thaweakdays.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2730,6 +2890,7 @@
 			"link": "https://townescosentino.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2747,6 +2908,7 @@
 			"link": "https://www.facebook.com/trailoflies315/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2764,6 +2926,7 @@
 			"link": "https://trophylungs.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2781,6 +2944,7 @@
 			"link": "https://trstss.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2798,6 +2962,7 @@
 			"link": "https://typesetter.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2815,6 +2980,7 @@
 			"link": "https://www.facebook.com/undesirablepeople/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2832,6 +2998,7 @@
 			"link": "https://upfornothing.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2849,6 +3016,7 @@
 			"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2866,6 +3034,7 @@
 			"link": "http://walktheplank.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2883,6 +3052,7 @@
 			"link": "https://wastedpotential.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2900,6 +3070,7 @@
 			"link": "https://waynekennedy.bandcamp.com/releases",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2917,6 +3088,7 @@
 			"link": "https://wd-40.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2934,6 +3106,7 @@
 			"link": "https://weakends.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2951,6 +3124,7 @@
 			"link": "https://wildsidehc.bandcamp.com",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2968,6 +3142,7 @@
 			"link": "https://windoc.bandcamp.com/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -2985,6 +3160,7 @@
 			"link": "https://www.facebook.com/pubesonmyface/",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{
@@ -3002,6 +3178,7 @@
 			"link": "https://www.facebook.com/youvandalfl",
 			"hometown": "",
 			"genre": "",
+			"description": "",
 			"image": "",
 			"events": [
 				{

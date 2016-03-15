@@ -8,6 +8,13 @@
 <!-- Latest compiled and minified CSS & JS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
 <link rel="stylesheet" href="styles/custom.css" />
+<style type="text/css">
+.panel-heading {
+	height: 100px;
+}	
+
+
+</style>
 <body>
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
@@ -52,10 +59,10 @@
 	<section class="col-md-3" data-ng-repeat="band in bands.bands">
 <div class="panel panel-info">
 	<div class="panel-heading">
-		<h2 class="panel-title"><a href="{{band.link}}">{{band.name}}</a></h2>
+		<h2 class="panel-title"><a href="{{band.link}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
 	</div>
-	<div class="panel-body">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet iste nesciunt totam, velit voluptates praesentium atque consequuntur error optio, similique ipsum quidem explicabo doloremque saepe enim tempora molestias deserunt, cupiditate. <span class="label label-info">{{band.hometown}}</span></p>
+	<div class="panel-body bandPanel">
+		<p><img class="img-responsive" src="{{band.image}}"></p>
 	</div>
 </div>
 
