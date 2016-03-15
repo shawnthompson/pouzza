@@ -10,8 +10,8 @@
 <link rel="stylesheet" href="styles/custom.css" />
 <style type="text/css">
 .panel-heading {
-	height: 100px;
-}	
+	min-height: 75px;
+}
 
 
 </style>
@@ -52,27 +52,47 @@
 </nav>
 <div class="container" data-ng-app="bandList">
 	<div class="row">
-	<div class="alert alert-info">
-		<p><strong>Hello!</strong> This is a web app I created to list all the band information I put together about the Pouzzafest 6 lineup. This app is not an official Pouzzafest product and is dates are subject to change.</p>
-	</div>
-	<div class="row" data-ng-controller="bandListCtrl">
-	<section class="col-md-3" data-ng-repeat="band in bands.bands">
-<div class="panel panel-info">
-	<div class="panel-heading">
-		<h2 class="panel-title"><a href="{{band.link}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
-	</div>
-	<div class="panel-body bandPanel">
-		<p><img class="img-responsive" src="{{band.image}}"></p>
-	</div>
+		<div class="alert alert-info">
+			<p><strong>Hello!</strong> This is a web app I created to list all the band information I put together about the Pouzzafest 6 lineup. This app is not an official Pouzzafest product and is dates are subject to change.</p>
+		</div>
+
+
+		<div data-ng-controller="bandListCtrl">
+		<section class="col-md-3 col-xs-6" data-ng-repeat="band in bands.bands">
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h2 class="panel-title"><a data-toggle="modal" data-target=".bs-example-modal-lg" href="{{band.link}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
+				</div>
+				<div class="panel-body bandPanel">
+					<p><img class="img-responsive" src="{{band.image}}"></p>
+				</div>
+			</div>
+		</section>
+		</div>
+
+
+
+<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A vel consectetur culpa nam accusamus repellat itaque eius inventore in reprehenderit vitae, labore sequi officiis eveniet suscipit facilis provident ullam totam?</p>
+      <dl>
+      	<dt>Where:</dt>
+      	<dd>{{bands.events.venue}}</dd>
+      	<dt>When:</dt>
+      	<dd>{{bands.events.date}}</dd>
+      	<dt>Time:</dt>
+      	<dd>{{bands.events.time}}</dd>
+      </dl>
+    </div>
+  </div>
 </div>
 
-	</section>
-	</div>
 
 
-	<ol>
-		<li></li>
-	</ol>
+
+
+
 	</div>
 </div>
 
