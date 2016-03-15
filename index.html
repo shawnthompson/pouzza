@@ -48,8 +48,23 @@
 	<div class="alert alert-info">
 		<p><strong>Hello!</strong> This is a web app I created to list all the band information I put together about the Pouzzafest 6 lineup. This app is not an official Pouzzafest product and is dates are subject to change.</p>
 	</div>
-	<ol data-ng-controller="bandListCtrl">
-		<li data-ng-repeat="band in bands.bands"><a href="{{band.link}}">{{band.name}}</a></li>
+	<div class="row" data-ng-controller="bandListCtrl">
+	<section class="col-md-3" data-ng-repeat="band in bands.bands">
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h2 class="panel-title"><a href="{{band.link}}">{{band.name}}</a></h2>
+	</div>
+	<div class="panel-body">
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet iste nesciunt totam, velit voluptates praesentium atque consequuntur error optio, similique ipsum quidem explicabo doloremque saepe enim tempora molestias deserunt, cupiditate. <span class="label label-info">{{band.hometown}}</span></p>
+	</div>
+</div>
+
+	</section>
+	</div>
+
+
+	<ol>
+		<li></li>
 	</ol>
 	</div>
 </div>
