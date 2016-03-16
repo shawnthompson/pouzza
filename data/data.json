@@ -13,6 +13,11 @@
 					"venue": "That Place",
 					"date": "2016-05-20",
 					"time": "19:00"
+				},
+				{
+					"venue": "That other Place",
+					"date": "2016-05-21",
+					"time": "16:00"
 				}
 			],
 			"similarArtist": [

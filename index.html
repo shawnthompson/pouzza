@@ -86,18 +86,22 @@
 	<div class="modal-content">
 		<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title">{{band.name}}</h3>
+			<h3 class="modal-title"><a href="{{band.link}}" target="_blank">{{band.name}}</a></h3>
 		</div>
 		<div class="modal-body">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A vel consectetur culpa nam accusamus repellat itaque eius inventore in reprehenderit vitae, labore sequi officiis eveniet suscipit facilis provident ullam totam?</p>
-			<dl>
-			<dt>Where:</dt>
-			<dd>{{band.events.venue}}</dd>
-			<dt>When:</dt>
-			<dd>{{band.events.date | date:'fullDate'}}</dd>
-			<dt>Time:</dt>
-			<dd>{{band.events.time}}</dd>
+			<p>{{band.description}}</p>
+			<dl class="dl-horizontal" data-ng-repeat="event in band.events">
+				<dt>Where:</dt>
+				<dd>{{event.venue}}</dd>
+				<dt>When:</dt>
+				<dd>{{event.date | date:'fullDate'}}</dd>
+				<dt>Time:</dt>
+				<dd>{{event.time}}</dd>
 			</dl>
+			<h4>Similar artists</h4>
+			<ul class="list-inline">
+				<li data-ng-repeat="similar in band.similarArtist">{{similar.name}}</li>
+			</ul>
 		</div>
 	</div>
 	</div>
