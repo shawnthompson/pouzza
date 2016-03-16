@@ -69,6 +69,8 @@
     position: absolute;
     bottom: 3px;
     right: 3px; }
+.panel .panel-body {
+  min-height: 150px; }
 
 body {
   background-color: #333; }
