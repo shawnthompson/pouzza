@@ -1,6 +1,7 @@
 {
 	"bands": [
 		{
+			"id": "bd001",
 			"name": "A Minor Revolution",
 			"link": "https://aminorrevolution.bandcamp.com/",
 			"hometown": "Dover, NH",
@@ -19,6 +20,7 @@
 			]
 		},
 		{
+			"id": "bd002",
 			"name": "A Perfect Murder",
 			"link": "https://www.facebook.com/apmxhc/",
 			"hometown": "Drummondville, Granby, PQ",
@@ -39,6 +41,7 @@
 			]
 		},
 		{
+			"id": "bd003",
 			"name": "Apes",
 			"link": "https://apesqc.bandcamp.com/",
 			"hometown": "Quebec City, PQ",
@@ -57,6 +60,7 @@
 			]
 		},
 		{
+			"id": "bd004",
 			"name": "Ariane Zita",
 			"link": "https://www.facebook.com/arianezitamusique/?fref=ts",
 			"hometown": "Montréal, PQ",
@@ -78,6 +82,7 @@
 			]
 		},
 		{
+			"id": "bd005",
 			"name": "ATD",
 			"link": "https://www.facebook.com/atdvan/",
 			"hometown": "Vancouver, BC",
@@ -96,6 +101,7 @@
 			]
 		},
 		{
+			"id": "bd006",
 			"name": "Ate Bit",
 			"link": "https://atebit.bandcamp.com/releases",
 			"hometown": "Beacon, NY",
@@ -114,6 +120,7 @@
 			]
 		},
 		{
+			"id": "bd007",
 			"name": "Audio Visceral",
 			"link": "https://audiovisceralvkh.bandcamp.com/",
 			"hometown": "",
@@ -132,6 +139,7 @@
 			]
 		},
 		{
+			"id": "bd008",
 			"name": "Avenues",
 			"link": "https://avenuesrock.bandcamp.com/",
 			"hometown": "",
@@ -150,6 +158,7 @@
 			]
 		},
 		{
+			"id": "bd009",
 			"name": "Barrasso",
 			"link": "https://www.facebook.com/barrassomusique",
 			"hometown": "",
@@ -168,6 +177,7 @@
 			]
 		},
 		{
+			"id": "bd010",
 			"name": "Barricade",
 			"link": "https://barricadernhc819.bandcamp.com/releases",
 			"hometown": "",
@@ -186,6 +196,7 @@
 			]
 		},
 		{
+			"id": "bd011",
 			"name": "Bastardous",
 			"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf",
 			"hometown": "",
@@ -204,6 +215,7 @@
 			]
 		},
 		{
+			"id": "bd012",
 			"name": "Behind Deadlines",
 			"link": "https://behinddeadlines.bandcamp.com/",
 			"hometown": "",
@@ -222,6 +234,7 @@
 			]
 		},
 		{
+			"id": "bd013",
 			"name": "Belvedere",
 			"link": "http://belvedereband.com/",
 			"hometown": "",
@@ -240,6 +253,7 @@
 			]
 		},
 		{
+			"id": "bd014",
 			"name": "Better Things",
 			"link": "http://betterthingsband.com/",
 			"hometown": "",
@@ -258,6 +272,7 @@
 			]
 		},
 		{
+			"id": "bd015",
 			"name": "Big D And The Kids Table",
 			"link": "http://www.bigdandthekidstable.com/",
 			"hometown": "",
@@ -276,6 +291,7 @@
 			]
 		},
 		{
+			"id": "bd016",
 			"name": "Bike Tuff",
 			"link": "https://bikingtuff.bandcamp.com/",
 			"hometown": "",
@@ -294,6 +310,7 @@
 			]
 		},
 		{
+			"id": "bd017",
 			"name": "Blossom",
 			"link": "https://blossomband.bandcamp.com/releases",
 			"hometown": "",
@@ -312,6 +329,7 @@
 			]
 		},
 		{
+			"id": "bd018",
 			"name": "Blurry Eyes",
 			"link": "#",
 			"hometown": "",
@@ -330,6 +348,7 @@
 			]
 		},
 		{
+			"id": "bd019",
 			"name": "BOIDS",
 			"link": "https://www.facebook.com/boidsmtl",
 			"hometown": "",
@@ -348,6 +367,7 @@
 			]
 		},
 		{
+			"id": "bd020",
 			"name": "Bong Mountain",
 			"link": "https://bngmtn.bandcamp.com/",
 			"hometown": "",
@@ -366,6 +386,7 @@
 			]
 		},
 		{
+			"id": "bd021",
 			"name": "Bottle Kids",
 			"link": "https://www.facebook.com/bottlekidschicago/",
 			"hometown": "",
@@ -384,6 +405,7 @@
 			]
 		},
 		{
+			"id": "bd022",
 			"name": "Brand New Lungs",
 			"link": "https://www.facebook.com/brandnewlungs/?fref=ts",
 			"hometown": "",
@@ -402,6 +424,7 @@
 			]
 		},
 		{
+			"id": "bd023",
 			"name": "Break Anchor",
 			"link": "https://breakanchor.bandcamp.com/",
 			"hometown": "",
@@ -420,6 +443,7 @@
 			]
 		},
 		{
+			"id": "bd024",
 			"name": "Brendan Kelly",
 			"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k",
 			"hometown": "",
@@ -438,6 +462,7 @@
 			]
 		},
 		{
+			"id": "bd025",
 			"name": "Brutal Youth",
 			"link": "https://brutalyouth.bandcamp.com/",
 			"hometown": "",
@@ -456,6 +481,7 @@
 			]
 		},
 		{
+			"id": "bd026",
 			"name": "Bucky Harris",
 			"link": "https://buckyharris.bandcamp.com/",
 			"hometown": "",
@@ -474,6 +500,7 @@
 			]
 		},
 		{
+			"id": "bd027",
 			"name": "Charles Landry",
 			"link": "https://www.facebook.com/tonplusfort/",
 			"hometown": "",
@@ -492,6 +519,7 @@
 			]
 		},
 		{
+			"id": "bd028",
 			"name": "Chuck Coles",
 			"link": "https://chuckcoles.bandcamp.com/releases",
 			"hometown": "",
@@ -510,6 +538,7 @@
 			]
 		},
 		{
+			"id": "bd029",
 			"name": "City Mouse",
 			"link": "https://citymouse.bandcamp.com/",
 			"hometown": "",
@@ -528,6 +557,7 @@
 			]
 		},
 		{
+			"id": "bd030",
 			"name": "Colour Wheel",
 			"link": "http://colourwheelsongs.bandcamp.com",
 			"hometown": "",
@@ -546,6 +576,7 @@
 			]
 		},
 		{
+			"id": "bd031",
 			"name": "Comedy Acts",
 			"link": "#",
 			"hometown": "",
@@ -564,6 +595,7 @@
 			]
 		},
 		{
+			"id": "bd032",
 			"name": "Condition Oakland",
 			"link": "https://conditionoaklandpa.bandcamp.com/",
 			"hometown": "",
@@ -582,6 +614,7 @@
 			]
 		},
 		{
+			"id": "bd033",
 			"name": "Curt Murder",
 			"link": "https://curtmurderfanclub.bandcamp.com/",
 			"hometown": "",
@@ -600,6 +633,7 @@
 			]
 		},
 		{
+			"id": "bd034",
 			"name": "Cut Up",
 			"link": "https://www.facebook.com/cutupsf/",
 			"hometown": "",
@@ -618,6 +652,7 @@
 			]
 		},
 		{
+			"id": "bd035",
 			"name": "Dark Circles",
 			"link": "https://darkcircles.bandcamp.com/",
 			"hometown": "",
@@ -636,6 +671,7 @@
 			]
 		},
 		{
+			"id": "bd036",
 			"name": "Dead Broke",
 			"link": "http://deadbrokeband.com/",
 			"hometown": "",
@@ -654,6 +690,7 @@
 			]
 		},
 		{
+			"id": "bd037",
 			"name": "Dead to Me",
 			"link": "https://www.facebook.com/deadtomesf",
 			"hometown": "",
@@ -672,6 +709,7 @@
 			]
 		},
 		{
+			"id": "bd038",
 			"name": "Dead Weights",
 			"link": "https://deadweights.bandcamp.com/",
 			"hometown": "",
@@ -690,6 +728,7 @@
 			]
 		},
 		{
+			"id": "bd039",
 			"name": "Dead Words",
 			"link": "https://deadwordstx.bandcamp.com/",
 			"hometown": "",
@@ -708,6 +747,7 @@
 			]
 		},
 		{
+			"id": "bd040",
 			"name": "Deeper Well",
 			"link": "https://deeperwell.bandcamp.com/",
 			"hometown": "",
@@ -726,6 +766,7 @@
 			]
 		},
 		{
+			"id": "bd041",
 			"name": "Deja Mort",
 			"link": "https://www.facebook.com/dejamortmusique/",
 			"hometown": "",
@@ -744,6 +785,7 @@
 			]
 		},
 		{
+			"id": "bd042",
 			"name": "Dig It Up",
 			"link": "https://digitup.bandcamp.com/",
 			"hometown": "",
@@ -762,6 +804,7 @@
 			]
 		},
 		{
+			"id": "bd043",
 			"name": "Dirty Kills",
 			"link": "https://dirtykills.bandcamp.com/",
 			"hometown": "",
@@ -780,6 +823,7 @@
 			]
 		},
 		{
+			"id": "bd044",
 			"name": "Dowsing",
 			"link": "https://www.facebook.com/Dowsingband/",
 			"hometown": "",
@@ -798,6 +842,7 @@
 			]
 		},
 		{
+			"id": "bd045",
 			"name": "Dragged In",
 			"link": "https://draggedin.bandcamp.com/",
 			"hometown": "",
@@ -816,6 +861,7 @@
 			]
 		},
 		{
+			"id": "bd046",
 			"name": "Drug Church",
 			"link": "https://www.facebook.com/drugchurch/",
 			"hometown": "",
@@ -834,6 +880,7 @@
 			]
 		},
 		{
+			"id": "bd047",
 			"name": "Due North",
 			"link": "https://duenorth.bandcamp.com/",
 			"hometown": "",
@@ -852,6 +899,7 @@
 			]
 		},
 		{
+			"id": "bd048",
 			"name": "Elder Abuse",
 			"link": "https://elderabuse.bandcamp.com/",
 			"hometown": "",
@@ -870,6 +918,7 @@
 			]
 		},
 		{
+			"id": "bd049",
 			"name": "Enforcers",
 			"link": "https://www.facebook.com/EnForcersmtl/",
 			"hometown": "",
@@ -888,6 +937,7 @@
 			]
 		},
 		{
+			"id": "bd050",
 			"name": "Escape Uken!",
 			"link": "https://escapeuken.bandpage.com/",
 			"hometown": "",
@@ -906,6 +956,7 @@
 			]
 		},
 		{
+			"id": "bd051",
 			"name": "Excess",
 			"link": "https://excessmtl.bandcamp.com/",
 			"hometown": "",
@@ -924,6 +975,7 @@
 			]
 		},
 		{
+			"id": "bd052",
 			"name": "Five Minute Major",
 			"link": "https://fiveminutemajor.bandcamp.com/",
 			"hometown": "",
@@ -942,6 +994,7 @@
 			]
 		},
 		{
+			"id": "bd053",
 			"name": "Flatfoot 56",
 			"link": "http://www.flatfoot56.com/",
 			"hometown": "",
@@ -960,6 +1013,7 @@
 			]
 		},
 		{
+			"id": "bd054",
 			"name": "Fourth Son",
 			"link": "https://www.facebook.com/fourthsonhc",
 			"hometown": "",
@@ -978,6 +1032,7 @@
 			]
 		},
 		{
+			"id": "bd055",
 			"name": "Frank & Earnest",
 			"link": "https://frankandearnest.bandcamp.com/",
 			"hometown": "",
@@ -996,6 +1051,7 @@
 			]
 		},
 		{
+			"id": "bd056",
 			"name": "Fucko",
 			"link": "https://fucko.bandcamp.com/",
 			"hometown": "",
@@ -1014,6 +1070,7 @@
 			]
 		},
 		{
+			"id": "bd057",
 			"name": "Full Of Hell",
 			"link": "https://www.facebook.com/fullofhell/",
 			"hometown": "",
@@ -1032,6 +1089,7 @@
 			]
 		},
 		{
+			"id": "bd058",
 			"name": "Get Dead",
 			"link": "https://www.facebook.com/getdeadband",
 			"hometown": "",
@@ -1050,6 +1108,7 @@
 			]
 		},
 		{
+			"id": "bd059",
 			"name": "Get The Shot",
 			"link": "https://gettheshot.bandcamp.com/",
 			"hometown": "",
@@ -1068,6 +1127,7 @@
 			]
 		},
 		{
+			"id": "bd060",
 			"name": "Golden Python",
 			"link": "https://golden-python.bandcamp.com/",
 			"hometown": "",
@@ -1086,6 +1146,7 @@
 			]
 		},
 		{
+			"id": "bd061",
 			"name": "Green Cup",
 			"link": "https://www.facebook.com/Green-Cup-11685472553/",
 			"hometown": "",
@@ -1104,6 +1165,7 @@
 			]
 		},
 		{
+			"id": "bd062",
 			"name": "Half Truth",
 			"link": "https://halftruthmtl.bandcamp.com/",
 			"hometown": "",
@@ -1122,6 +1184,7 @@
 			]
 		},
 		{
+			"id": "bd063",
 			"name": "Harriers",
 			"link": "https://harriersmtl.bandcamp.com/",
 			"hometown": "",
@@ -1140,6 +1203,7 @@
 			]
 		},
 		{
+			"id": "bd064",
 			"name": "Head Down",
 			"link": "https://www.facebook.com/HeadDownMusic/",
 			"hometown": "",
@@ -1158,6 +1222,7 @@
 			]
 		},
 		{
+			"id": "bd065",
 			"name": "In The Meantime",
 			"link": "https://www.facebook.com/inthemeantimeboston/",
 			"hometown": "",
@@ -1176,6 +1241,7 @@
 			]
 		},
 		{
+			"id": "bd066",
 			"name": "Insubordination",
 			"link": "https://insubordination.bandcamp.com/",
 			"hometown": "",
@@ -1194,6 +1260,7 @@
 			]
 		},
 		{
+			"id": "bd067",
 			"name": "Jabber",
 			"link": "https://jabberpop.bandcamp.com/",
 			"hometown": "",
@@ -1212,6 +1279,7 @@
 			]
 		},
 		{
+			"id": "bd068",
 			"name": "Jenn Fiorentino",
 			"link": "http://jennfiorentino.com/",
 			"hometown": "",
@@ -1230,6 +1298,7 @@
 			]
 		},
 		{
+			"id": "bd069",
 			"name": "Jesse Lebourdais",
 			"link": "https://jesselebourdais.bandcamp.com/",
 			"hometown": "",
@@ -1248,6 +1317,7 @@
 			]
 		},
 		{
+			"id": "bd070",
 			"name": "Jonathan Becker",
 			"link": "https://jonathanbecker.bandcamp.com/",
 			"hometown": "",
@@ -1266,6 +1336,7 @@
 			]
 		},
 		{
+			"id": "bd071",
 			"name": "Julius Sumner Miller",
 			"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/",
 			"hometown": "",
@@ -1284,6 +1355,7 @@
 			]
 		},
 		{
+			"id": "bd072",
 			"name": "Junior Battles",
 			"link": "https://www.facebook.com/juniorbattles",
 			"hometown": "",
@@ -1302,6 +1374,7 @@
 			]
 		},
 		{
+			"id": "bd073",
 			"name": "Katie Ellen (ex-Chumped)",
 			"link": "https://katiebandellen.bandcamp.com/",
 			"hometown": "",
@@ -1320,6 +1393,7 @@
 			]
 		},
 		{
+			"id": "bd074",
 			"name": "Kittyhawk",
 			"link": "https://www.facebook.com/apmxhc/",
 			"hometown": "",
@@ -1338,6 +1412,7 @@
 			]
 		},
 		{
+			"id": "bd075",
 			"name": "La Armada",
 			"link": "https://armadahardcore.bandcamp.com/",
 			"hometown": "",
@@ -1356,6 +1431,7 @@
 			]
 		},
 		{
+			"id": "bd076",
 			"name": "La Querelle",
 			"link": "https://laquerelle.bandcamp.com/",
 			"hometown": "",
@@ -1374,6 +1450,7 @@
 			]
 		},
 		{
+			"id": "bd077",
 			"name": "Late Night Munchies",
 			"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/",
 			"hometown": "",
@@ -1392,6 +1469,7 @@
 			]
 		},
 		{
+			"id": "bd078",
 			"name": "Lemuria",
 			"link": "http://www.lemuriapop.com/",
 			"hometown": "",
@@ -1410,6 +1488,7 @@
 			]
 		},
 		{
+			"id": "bd079",
 			"name": "Les Breastfeeders",
 			"link": "http://www.lesbreastfeeders.ca/en",
 			"hometown": "",
@@ -1428,6 +1507,7 @@
 			]
 		},
 		{
+			"id": "bd080",
 			"name": "Les Happycuriens",
 			"link": "https://leshappycuriens.bandcamp.com/",
 			"hometown": "",
@@ -1446,6 +1526,7 @@
 			]
 		},
 		{
+			"id": "bd081",
 			"name": "Less Than Jake",
 			"link": "http://www.lessthanjake.com/",
 			"hometown": "",
@@ -1464,6 +1545,7 @@
 			]
 		},
 		{
+			"id": "bd082",
 			"name": "Loss Aversion",
 			"link": "https://www.facebook.com/lossaversion/",
 			"hometown": "",
@@ -1482,6 +1564,7 @@
 			]
 		},
 		{
+			"id": "bd083",
 			"name": "Lost Love",
 			"link": "https://lostlove.bandcamp.com/",
 			"hometown": "",
@@ -1500,6 +1583,7 @@
 			]
 		},
 		{
+			"id": "bd084",
 			"name": "Malfunction",
 			"link": "https://www.facebook.com/Malfunctionhc/",
 			"hometown": "",
@@ -1518,6 +1602,7 @@
 			]
 		},
 		{
+			"id": "bd085",
 			"name": "Mansbridge",
 			"link": "https://www.facebook.com/mansbridgetheband/",
 			"hometown": "",
@@ -1536,6 +1621,7 @@
 			]
 		},
 		{
+			"id": "bd086",
 			"name": "Meat Wave",
 			"link": "https://meatwavechicago.bandcamp.com/",
 			"hometown": "",
@@ -1554,6 +1640,7 @@
 			]
 		},
 		{
+			"id": "bd087",
 			"name": "Merauder",
 			"link": "http://www.facebook.com/merauderNY",
 			"hometown": "",
@@ -1572,6 +1659,7 @@
 			]
 		},
 		{
+			"id": "bd088",
 			"name": "Merci Beaute",
 			"link": "http://liguerock.com/LR3/band/merci-beaute",
 			"hometown": "",
@@ -1590,6 +1678,7 @@
 			]
 		},
 		{
+			"id": "bd089",
 			"name": "Molly Drag",
 			"link": "https://mollydrag.bandcamp.com/",
 			"hometown": "",
@@ -1608,6 +1697,7 @@
 			]
 		},
 		{
+			"id": "bd090",
 			"name": "Molly Rhythm",
 			"link": "https://mollyrhythm.bandcamp.com/",
 			"hometown": "",
@@ -1626,6 +1716,7 @@
 			]
 		},
 		{
+			"id": "bd091",
 			"name": "Morgan",
 			"link": "https://www.facebook.com/morganband/?fref=ts",
 			"hometown": "",
@@ -1644,6 +1735,7 @@
 			]
 		},
 		{
+			"id": "bd092",
 			"name": "Mountain Man",
 			"link": "https://www.facebook.com/mountainmanhc",
 			"hometown": "",
@@ -1662,6 +1754,7 @@
 			]
 		},
 		{
+			"id": "bd093",
 			"name": "Murderburgers",
 			"link": "https://themurderburgers.bandcamp.com/",
 			"hometown": "",
@@ -1680,6 +1773,7 @@
 			]
 		},
 		{
+			"id": "bd094",
 			"name": "Neck",
 			"link": "https://necktunes.bandcamp.com/",
 			"hometown": "",
@@ -1698,6 +1792,7 @@
 			]
 		},
 		{
+			"id": "bd095",
 			"name": "Night Birds",
 			"link": "https://www.facebook.com/NGHTBRDS/",
 			"hometown": "",
@@ -1716,6 +1811,7 @@
 			]
 		},
 		{
+			"id": "bd096",
 			"name": "Nightmares For A Week",
 			"link": "https://nightmaresforaweek.bandcamp.com/",
 			"hometown": "",
@@ -1734,6 +1830,7 @@
 			]
 		},
 		{
+			"id": "bd097",
 			"name": "Ninjas N Aliens",
 			"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album",
 			"hometown": "",
@@ -1752,6 +1849,7 @@
 			]
 		},
 		{
+			"id": "bd098",
 			"name": "Nuke",
 			"link": "https://www.facebook.com/NUKEMTL",
 			"hometown": "",
@@ -1770,6 +1868,7 @@
 			]
 		},
 		{
+			"id": "bd099",
 			"name": "OC-45",
 			"link": "https://oc45.bandcamp.com/",
 			"hometown": "",
@@ -1788,6 +1887,7 @@
 			]
 		},
 		{
+			"id": "bd101",
 			"name": "Oh My Snare!",
 			"link": "https://ohmysnare.bandcamp.com/",
 			"hometown": "",
@@ -1806,6 +1906,7 @@
 			]
 		},
 		{
+			"id": "bd102",
 			"name": "Old Towns",
 			"link": "oldtowns.bandcamp.com",
 			"hometown": "",
@@ -1824,6 +1925,7 @@
 			]
 		},
 		{
+			"id": "bd103",
 			"name": "On The Cinder",
 			"link": "https://onthecinder.bandcamp.com/",
 			"hometown": "",
@@ -1842,6 +1944,7 @@
 			]
 		},
 		{
+			"id": "bd104",
 			"name": "One Flight Down",
 			"link": "https://oneflightdown.bandcamp.com/releases",
 			"hometown": "",
@@ -1860,6 +1963,7 @@
 			]
 		},
 		{
+			"id": "bd105",
 			"name": "Pale Lips",
 			"link": "https://palelips.bandcamp.com/",
 			"hometown": "",
@@ -1878,6 +1982,7 @@
 			]
 		},
 		{
+			"id": "bd106",
 			"name": "Peace Be Still",
 			"link": "https://peacebestill.bandcamp.com/",
 			"hometown": "",
@@ -1896,6 +2001,7 @@
 			]
 		},
 		{
+			"id": "bd107",
 			"name": "Pistols At Dawn",
 			"link": "http://www.pistolsatdawnpunk.bandcamp.com/",
 			"hometown": "",
@@ -1914,6 +2020,7 @@
 			]
 		},
 		{
+			"id": "bd108",
 			"name": "Pkew Pkew Pkew",
 			"link": "https://pkewx3.bandcamp.com/",
 			"hometown": "",
@@ -1932,6 +2039,7 @@
 			]
 		},
 		{
+			"id": "bd109",
 			"name": "PL Mafia",
 			"link": "https://plmafia.bandcamp.com/",
 			"hometown": "",
@@ -1950,6 +2058,7 @@
 			]
 		},
 		{
+			"id": "bd110",
 			"name": "Pluum",
 			"link": "https://pluum.bandcamp.com/",
 			"hometown": "",
@@ -1968,6 +2077,7 @@
 			]
 		},
 		{
+			"id": "bd111",
 			"name": "Prowl",
 			"link": "#",
 			"hometown": "",
@@ -1986,6 +2096,7 @@
 			]
 		},
 		{
+			"id": "bd112",
 			"name": "Ray Rocket (Teenage Bottlerocket)",
 			"link": "http://teenagebottlerocket.com/",
 			"hometown": "",
@@ -2004,6 +2115,7 @@
 			]
 		},
 		{
+			"id": "bd113",
 			"name": "Rebuilder",
 			"link": "https://rebuilderboston.bandcamp.com/",
 			"hometown": "",
@@ -2022,6 +2134,7 @@
 			]
 		},
 		{
+			"id": "bd114",
 			"name": "Red Arms",
 			"link": "http://redarms.bandcamp.com",
 			"hometown": "",
@@ -2040,6 +2153,7 @@
 			]
 		},
 		{
+			"id": "bd115",
 			"name": "Red Mass",
 			"link": "http://redmassmusic.com/",
 			"hometown": "",
@@ -2058,6 +2172,7 @@
 			]
 		},
 		{
+			"id": "bd116",
 			"name": "Ringworm",
 			"link": "https://www.facebook.com/Ringworm13/",
 			"hometown": "",
@@ -2076,6 +2191,7 @@
 			]
 		},
 		{
+			"id": "bd117",
 			"name": "Rusty Feather",
 			"link": "https://rustyfeather.bandcamp.com/",
 			"hometown": "",
@@ -2094,6 +2210,7 @@
 			]
 		},
 		{
+			"id": "bd118",
 			"name": "S.T.O.P",
 			"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts",
 			"hometown": "",
@@ -2112,6 +2229,7 @@
 			]
 		},
 		{
+			"id": "bd119",
 			"name": "Sabotage",
 			"link": "http://sabotagehc.bandcamp.com",
 			"hometown": "",
@@ -2130,6 +2248,7 @@
 			]
 		},
 		{
+			"id": "bd120",
 			"name": "Sammy Kay",
 			"link": "https://www.facebook.com/sammykaynj/",
 			"hometown": "",
@@ -2148,6 +2267,7 @@
 			]
 		},
 		{
+			"id": "bd121",
 			"name": "Save Ends",
 			"link": "https://saveends.bandcamp.com/",
 			"hometown": "",
@@ -2166,6 +2286,7 @@
 			]
 		},
 		{
+			"id": "bd122",
 			"name": "Scare",
 			"link": "https://scareqc.bandcamp.com/",
 			"hometown": "",
@@ -2184,6 +2305,7 @@
 			]
 		},
 		{
+			"id": "bd123",
 			"name": "School Damage",
 			"link": "https://www.facebook.com/schooldamage",
 			"hometown": "",
@@ -2202,6 +2324,7 @@
 			]
 		},
 		{
+			"id": "bd124",
 			"name": "Seth Anderson",
 			"link": "http://www.sethandersonmusic.com/",
 			"hometown": "",
@@ -2220,6 +2343,7 @@
 			]
 		},
 		{
+			"id": "bd125",
 			"name": "Sick Of It All",
 			"link": "http://www.sickofitall.com/",
 			"hometown": "",
@@ -2238,6 +2362,7 @@
 			]
 		},
 		{
+			"id": "bd126",
 			"name": "Sink Or Swim",
 			"link": "https://sinkorswimvt.bandcamp.com/",
 			"hometown": "",
@@ -2256,6 +2381,7 @@
 			]
 		},
 		{
+			"id": "bd127",
 			"name": "Sketchy",
 			"link": "https://thebandsketchy.bandcamp.com/",
 			"hometown": "",
@@ -2274,6 +2400,7 @@
 			]
 		},
 		{
+			"id": "bd128",
 			"name": "Speed Massacre",
 			"link": "https://speedmassacremtl.bandcamp.com/",
 			"hometown": "",
@@ -2292,6 +2419,7 @@
 			]
 		},
 		{
+			"id": "bd129",
 			"name": "Stereomonroe",
 			"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts",
 			"hometown": "",
@@ -2310,6 +2438,7 @@
 			]
 		},
 		{
+			"id": "bd130",
 			"name": "Strengthen What Remains",
 			"link": "https://www.facebook.com/strengthenwhatremains",
 			"hometown": "",
@@ -2328,6 +2457,7 @@
 			]
 		},
 		{
+			"id": "bd131",
 			"name": "Stuck Out Here",
 			"link": "https://stuckouthere.bandcamp.com/",
 			"hometown": "",
@@ -2346,6 +2476,7 @@
 			]
 		},
 		{
+			"id": "bd132",
 			"name": "Such Gold",
 			"link": "https://www.facebook.com/suchgold",
 			"hometown": "",
@@ -2364,6 +2495,7 @@
 			]
 		},
 		{
+			"id": "bd133",
 			"name": "Suicide Machines",
 			"link": "https://www.facebook.com/suicidemachinesdetroit",
 			"hometown": "",
@@ -2382,6 +2514,7 @@
 			]
 		},
 		{
+			"id": "bd134",
 			"name": "Sunday",
 			"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts",
 			"hometown": "",
@@ -2400,6 +2533,7 @@
 			]
 		},
 		{
+			"id": "bd135",
 			"name": "Swinging Flaws",
 			"link": "https://swingingflaws.bandcamp.com/",
 			"hometown": "",
@@ -2418,6 +2552,7 @@
 			]
 		},
 		{
+			"id": "bd136",
 			"name": "Talk Show Host",
 			"link": "https://welovetalkshowhost.bandcamp.com/releases",
 			"hometown": "",
@@ -2436,6 +2571,7 @@
 			]
 		},
 		{
+			"id": "bd137",
 			"name": "Teenage Halloween",
 			"link": "https://tngehllwn.bandcamp.com/releases",
 			"hometown": "",
@@ -2454,6 +2590,7 @@
 			]
 		},
 		{
+			"id": "bd138",
 			"name": "The Beatdown",
 			"link": "https://www.facebook.com/TheBeatdown",
 			"hometown": "",
@@ -2472,6 +2609,7 @@
 			]
 		},
 		{
+			"id": "bd139",
 			"name": "The Cardboard Swords",
 			"link": "http://thecardboardswords.com/",
 			"hometown": "",
@@ -2490,6 +2628,7 @@
 			]
 		},
 		{
+			"id": "bd140",
 			"name": "The Copyrights",
 			"link": "https://www.facebook.com/thecopyrightsband/?fref=ts",
 			"hometown": "",
@@ -2508,6 +2647,7 @@
 			]
 		},
 		{
+			"id": "bd141",
 			"name": "The Creeps",
 			"link": "https://thecreeps.bandcamp.com/",
 			"hometown": "",
@@ -2526,6 +2666,7 @@
 			]
 		},
 		{
+			"id": "bd142",
 			"name": "The Dewtons",
 			"link": "https://www.facebook.com/The-Dewtons-175460225798687/",
 			"hometown": "",
@@ -2544,6 +2685,7 @@
 			]
 		},
 		{
+			"id": "bd143",
 			"name": "The Dreadnoughts",
 			"link": "https://www.facebook.com/thedreadnoughts/",
 			"hometown": "",
@@ -2562,6 +2704,7 @@
 			]
 		},
 		{
+			"id": "bd144",
 			"name": "The Drunken Wobblies",
 			"link": "https://thedrunkenwobblies.bandcamp.com/",
 			"hometown": "",
@@ -2580,6 +2723,7 @@
 			]
 		},
 		{
+			"id": "bd145",
 			"name": "The Filthy Radicals",
 			"link": "https://thefilthyradicals1.bandcamp.com/",
 			"hometown": "",
@@ -2598,6 +2742,7 @@
 			]
 		},
 		{
+			"id": "bd146",
 			"name": "The Fleshtones",
 			"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
 			"hometown": "",
@@ -2616,6 +2761,7 @@
 			]
 		},
 		{
+			"id": "bd147",
 			"name": "The Hunters",
 			"link": "http://thehuntersmusic.com/",
 			"hometown": "",
@@ -2634,6 +2780,7 @@
 			]
 		},
 		{
+			"id": "bd148",
 			"name": "The Lippies",
 			"link": "https://thelippies.bandcamp.com/releases",
 			"hometown": "",
@@ -2652,6 +2799,7 @@
 			]
 		},
 		{
+			"id": "bd149",
 			"name": "The Nasties",
 			"link": "http://www.thenasties.net/",
 			"hometown": "",
@@ -2670,6 +2818,7 @@
 			]
 		},
 		{
+			"id": "bd150",
 			"name": "The Penske File",
 			"link": "https://www.facebook.com/thepenskefile/",
 			"hometown": "",
@@ -2688,6 +2837,7 @@
 			]
 		},
 		{
+			"id": "bd151",
 			"name": "The Planet Smashers",
 			"link": "https://www.facebook.com/ThePlanetSmashers/",
 			"hometown": "",
@@ -2706,6 +2856,7 @@
 			]
 		},
 		{
+			"id": "bd152",
 			"name": "The Putz",
 			"link": "http://theputz.bandcamp.com/music",
 			"hometown": "",
@@ -2724,6 +2875,7 @@
 			]
 		},
 		{
+			"id": "bd153",
 			"name": "The Raging Nathans",
 			"link": "https://www.facebook.com/TheRagingNathans/",
 			"hometown": "",
@@ -2742,6 +2894,7 @@
 			]
 		},
 		{
+			"id": "bd154",
 			"name": "The Red Owls",
 			"link": "https://www.facebook.com/theredowls/",
 			"hometown": "",
@@ -2760,6 +2913,7 @@
 			]
 		},
 		{
+			"id": "bd155",
 			"name": "The Rememberables",
 			"link": "https://www.facebook.com/rememberables/",
 			"hometown": "",
@@ -2778,6 +2932,7 @@
 			]
 		},
 		{
+			"id": "bd156",
 			"name": "the sainte catherines",
 			"link": "#",
 			"hometown": "",
@@ -2796,6 +2951,7 @@
 			]
 		},
 		{
+			"id": "bd157",
 			"name": "The Slow Death",
 			"link": "https://www.facebook.com/theslowdeath/",
 			"hometown": "",
@@ -2814,6 +2970,7 @@
 			]
 		},
 		{
+			"id": "bd158",
 			"name": "The Snails",
 			"link": "https://thesnailsband.bandcamp.com/",
 			"hometown": "",
@@ -2832,6 +2989,7 @@
 			]
 		},
 		{
+			"id": "bd159",
 			"name": "The Stragglers",
 			"link": "https://stragglers.bandcamp.com/",
 			"hometown": "",
@@ -2850,6 +3008,7 @@
 			]
 		},
 		{
+			"id": "bd160",
 			"name": "The Valveenus",
 			"link": "https://valveenus.bandcamp.com/",
 			"hometown": "",
@@ -2868,6 +3027,7 @@
 			]
 		},
 		{
+			"id": "bd161",
 			"name": "The Weak Days",
 			"link": "https://thaweakdays.bandcamp.com/",
 			"hometown": "",
@@ -2886,6 +3046,7 @@
 			]
 		},
 		{
+			"id": "bd162",
 			"name": "Townes Cosentino",
 			"link": "https://townescosentino.bandcamp.com/",
 			"hometown": "",
@@ -2904,6 +3065,7 @@
 			]
 		},
 		{
+			"id": "bd163",
 			"name": "Trail of Lies",
 			"link": "https://www.facebook.com/trailoflies315/",
 			"hometown": "",
@@ -2922,6 +3084,7 @@
 			]
 		},
 		{
+			"id": "bd164",
 			"name": "Trophy Lungs",
 			"link": "https://trophylungs.bandcamp.com/",
 			"hometown": "",
@@ -2940,6 +3103,7 @@
 			]
 		},
 		{
+			"id": "bd165",
 			"name": "TRSTSS",
 			"link": "https://trstss.bandcamp.com/releases",
 			"hometown": "",
@@ -2958,6 +3122,7 @@
 			]
 		},
 		{
+			"id": "bd166",
 			"name": "Typesetter",
 			"link": "https://typesetter.bandcamp.com/",
 			"hometown": "",
@@ -2976,6 +3141,7 @@
 			]
 		},
 		{
+			"id": "bd167",
 			"name": "Undesirable People",
 			"link": "https://www.facebook.com/undesirablepeople/",
 			"hometown": "",
@@ -2994,6 +3160,7 @@
 			]
 		},
 		{
+			"id": "bd168",
 			"name": "Up For Nothing",
 			"link": "https://upfornothing.bandcamp.com/",
 			"hometown": "",
@@ -3012,6 +3179,7 @@
 			]
 		},
 		{
+			"id": "bd169",
 			"name": "Vulgar Deli",
 			"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf",
 			"hometown": "",
@@ -3030,6 +3198,7 @@
 			]
 		},
 		{
+			"id": "bd170",
 			"name": "Walk The Plank",
 			"link": "http://walktheplank.bandcamp.com",
 			"hometown": "",
@@ -3048,6 +3217,7 @@
 			]
 		},
 		{
+			"id": "bd171",
 			"name": "Wasted Potential",
 			"link": "https://wastedpotential.bandcamp.com/",
 			"hometown": "",
@@ -3066,6 +3236,7 @@
 			]
 		},
 		{
+			"id": "bd172",
 			"name": "Wayne Kennedy",
 			"link": "https://waynekennedy.bandcamp.com/releases",
 			"hometown": "",
@@ -3084,6 +3255,7 @@
 			]
 		},
 		{
+			"id": "bd173",
 			"name": "WD40",
 			"link": "https://wd-40.bandcamp.com/",
 			"hometown": "",
@@ -3102,6 +3274,7 @@
 			]
 		},
 		{
+			"id": "bd174",
 			"name": "Weak Ends",
 			"link": "https://weakends.bandcamp.com/",
 			"hometown": "",
@@ -3120,6 +3293,7 @@
 			]
 		},
 		{
+			"id": "bd175",
 			"name": "Wild Side",
 			"link": "https://wildsidehc.bandcamp.com",
 			"hometown": "",
@@ -3138,6 +3312,7 @@
 			]
 		},
 		{
+			"id": "bd176",
 			"name": "Windoc",
 			"link": "https://windoc.bandcamp.com/",
 			"hometown": "",
@@ -3156,6 +3331,7 @@
 			]
 		},
 		{
+			"id": "bd177",
 			"name": "Wolf-Face",
 			"link": "https://www.facebook.com/pubesonmyface/",
 			"hometown": "",
@@ -3174,6 +3350,7 @@
 			]
 		},
 		{
+			"id": "bd178",
 			"name": "You Vandal",
 			"link": "https://www.facebook.com/youvandalfl",
 			"hometown": "",
