@@ -1,0 +1,21 @@
+// Panels styles
+.panel {
+	.panel-heading {
+		color: #ccc;
+		background-color: #000;
+		position: relative;
+		height: 75px;
+
+		.label {
+			color: #fff;
+			background-color: red;
+			position: absolute;
+			bottom: 3px;
+			right: 3px;
+		}
+	}
+
+	.panel-body {
+		// height: 150px;
+	}
+}

@@ -1,6 +1,17 @@
+
+//Imported styles
+@import "proximity";
+@import "panels";
+
+
+//Main styles
+
 body {
 
+	background-color: #333;
+
 	h1 {
-		color: blue;
+		color: orange;
 	}
 }
+
