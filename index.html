@@ -70,16 +70,18 @@
 	<div class="row" data-ng-controller="bandListCtrl">
 
 <div data-ng-repeat="band in bands.bands | filter:bandList.search">
+		<a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">
 		<section class="col-md-3 col-xs-6">
 			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h2 class="panel-title"><a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
+					<h2 class="panel-title">{{band.name}}<br /><small class="label label-warning">{{band.hometown}}</small></h2>
 				</div>
 				<div class="panel-body bandPanel">
 					<p><img class="img-responsive" src="{{band.image}}"></p>
 				</div>
 			</div>
 		</section>
+		</a>
 
 <div id="modal{{band.id}}" class="modal fade" tabindex="-1" role="dialog">
 	<div class="modal-dialog">
