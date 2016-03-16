@@ -1,1 +1,3 @@
 .sass-cache/
+styles/import/*.css
+styles/import/*.map
