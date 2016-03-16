@@ -2,19 +2,12 @@
 <html>
 <head>
 	<title>Plansmash's Pouzzafest 2016 App</title>
-</head>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.js"></script>
 <script src="js/controller.js"></script>
 <!-- Latest compiled and minified CSS & JS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
 <link rel="stylesheet" href="styles/custom.css" />
-<style type="text/css">
-.panel-heading {
-	min-height: 75px;
-}
-
-
-</style>
+</head>
 <body>
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
@@ -50,50 +43,80 @@
 		</div><!-- /.navbar-collapse -->
 	</div>
 </nav>
+
+
+
 <div class="container" data-ng-app="bandList">
-	<div class="row">
 		<div class="alert alert-info">
-			<p><strong>Hello!</strong> This is a web app I created to list all the band information I put together about the Pouzzafest 6 lineup. This app is not an official Pouzzafest product and is dates are subject to change.</p>
+			<p><strong>Hello!</strong> This is a web app I created to list all the band information I put together about the Pouzzafest 6 lineup. This app is not an official Pouzzafest product and the information is subject to change. All the information on this page was found on either the bands links off of <a href="http://pouzzafest.com">Pouzzafest.com</a>, iTunes or other online sites.</p>
 		</div>
 
+		<div class="input-group">
+			<label class="sr-only" for="filterBands">Filter</label>
+			<input type="text" ng-model="bandList.search" class="form-control" id="filterBands" placeholder="Search">
+			<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+		</div>
 
-		<div data-ng-controller="bandListCtrl">
-		<section class="col-md-3 col-xs-6" data-ng-repeat="band in bands.bands">
-			<div class="panel panel-info">
+		<div class="btn-group btn-group-justified mrgn-tp-md mrgn-bttm-md" role="group" aria-label="...">
+			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-20</span><span class="hidden-xs hidden-sm">Friday, May 20<sup>th</sup>, 2016</span></a>
+			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-21</span><span class="hidden-xs hidden-sm">Saturday, May 21<sup>st</sup>, 2016</span></a>
+			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-22</span><span class="hidden-xs hidden-sm">Sunday, May 22<sup>nd</sup>, 2016</span></a>
+		</div>
+
+<div class="clearfix"></div>
+
+
+
+	<div class="row" data-ng-controller="bandListCtrl">
+
+<div data-ng-repeat="band in bands.bands | filter:bandList.search">
+		<section class="col-md-3 col-xs-6">
+			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h2 class="panel-title"><a data-toggle="modal" data-target=".bs-example-modal-lg" href="{{band.link}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
+					<h2 class="panel-title"><a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">{{band.name}}</a><br /><small class="label label-warning">{{band.hometown}}</small></h2>
 				</div>
 				<div class="panel-body bandPanel">
 					<p><img class="img-responsive" src="{{band.image}}"></p>
 				</div>
 			</div>
 		</section>
+
+<div id="modal{{band.id}}" class="modal fade" tabindex="-1" role="dialog">
+	<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title">{{band.name}}</h3>
+		</div>
+		<div class="modal-body">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A vel consectetur culpa nam accusamus repellat itaque eius inventore in reprehenderit vitae, labore sequi officiis eveniet suscipit facilis provident ullam totam?</p>
+			<dl>
+			<dt>Where:</dt>
+			<dd>{{band.events.venue}}</dd>
+			<dt>When:</dt>
+			<dd>{{band.events.date | date:'fullDate'}}</dd>
+			<dt>Time:</dt>
+			<dd>{{band.events.time}}</dd>
+			</dl>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+</div>
+
+
 		</div>
 
 
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A vel consectetur culpa nam accusamus repellat itaque eius inventore in reprehenderit vitae, labore sequi officiis eveniet suscipit facilis provident ullam totam?</p>
-      <dl>
-      	<dt>Where:</dt>
-      	<dd>{{bands.events.venue}}</dd>
-      	<dt>When:</dt>
-      	<dd>{{bands.events.date}}</dd>
-      	<dt>Time:</dt>
-      	<dd>{{bands.events.time}}</dd>
-      </dl>
-    </div>
-  </div>
-</div>
 
 
 
 
 
 
-	</div>
 </div>
 
 
