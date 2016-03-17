@@ -58,7 +58,7 @@
 			<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
 		</div>
 
-		<div class="btn-group btn-group-justified mrgn-tp-md mrgn-bttm-md" role="group" aria-label="...">
+		<div class="btn-group btn-group-justified mrgn-tp-md mrgn-bttm-md" role="group">
 			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-20</span><span class="hidden-xs hidden-sm">Friday, May 20<sup>th</sup>, 2016</span></a>
 			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-21</span><span class="hidden-xs hidden-sm">Saturday, May 21<sup>st</sup>, 2016</span></a>
 			<a class="btn btn-default"><span class="visible-xs visible-sm">2016-05-22</span><span class="hidden-xs hidden-sm">Sunday, May 22<sup>nd</sup>, 2016</span></a>
@@ -72,7 +72,7 @@
 
 <div data-ng-repeat="band in bands.bands | filter:bandList.search">
 		<a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">
-		<section class="col-md-3 col-xs-6">
+		<section class="col-md-3 col-sm-6">
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<h2 class="panel-title">{{band.name}}<br /><small class="label label-warning">{{band.hometown}}</small></h2>
