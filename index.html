@@ -70,7 +70,7 @@
 
 	<div class="row" data-ng-controller="bandListCtrl">
 
-<div data-ng-repeat="band in bands.bands | filter:bandList.search">
+<div data-ng-repeat="band in bands | filter:bandList.search">
 		<a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">
 		<section class="col-md-3 col-sm-6">
 			<div class="panel panel-default">

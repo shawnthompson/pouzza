@@ -1,3376 +1,3374 @@
-{
-	"bands": [
-		{
-			"id": "bd001",
-			"name": "A Minor Revolution",
-			"link": "https://aminorrevolution.bandcamp.com/",
-			"hometown": "Dover, NH",
-			"genre": "Punk Rock",
-			"description": "A Minor Revolution is a new hampshire punk rock band featuring a pair of saxophones to give a dark-ska influence to their already unique punk sound.",
-			"image": "",
-			"events": [
-				{
-					"venue": "That Place",
-					"date": "2016-05-20",
-					"time": "19:00"
-				},
-				{
-					"venue": "That other Place",
-					"date": "2016-05-21",
-					"time": "16:00"
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd002",
-			"name": "A Perfect Murder",
-			"link": "https://www.facebook.com/apmxhc/",
-			"hometown": "Drummondville, Granby, PQ",
-			"genre": "Metal / Hardcore",
-			"description": "While it can be argued that some cats indeed have nine lives, the same cannot always be said about metal and hardcore bands, with even the luckiest enjoying two but rarely more. Sprouting up nearly six years ago from the extreme music mecca of Canada and even North America at large, Montreal Quebec, A Perfect Murder beat the odds and are now on their third or fourth life at least. But time is still on their side; the band began recording when still in their teens, highlighting an early appetite for crafting heavy music not unlike legendary acts Led Zeppelin, Black Sabbath, Metallica, and Pantera did during their formative years.",
-			"image": "",
-			"events": [
-				{
-					"venue": "That Place",
-					"date": "2016-05-21",
-					"time": "21:00"
-				}
-			],
-			"similarArtist": [
-				{ "name": "Throwdown" },
-				{ "name": "Full Blown Chaos" },
-				{ "name": "Kings of Sorrow"}
-			]
-		},
-		{
-			"id": "bd003",
-			"name": "Apes",
-			"link": "https://apesqc.bandcamp.com/",
-			"hometown": "Quebec City, PQ",
-			"genre": "Dark hardcore/grind",
-			"description": "No heaven, no hell, just pain, then death ",
-			"image": "",
-			"events": [
-				{
-					"venue": "That Other Place",
-					"date": "2016-05-22",
-					"time": "10:00"
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd004",
-			"name": "Ariane Zita",
-			"link": "https://www.facebook.com/arianezitamusique/?fref=ts",
-			"hometown": "Montréal, PQ",
-			"genre": "Indie Folk",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "Chloé Lacasse" },
-				{ "name": "Philémon Cimon" },
-				{ "name": "Chantal Archambault" }
-			]
-		},
-		{
-			"id": "bd005",
-			"name": "ATD",
-			"link": "https://www.facebook.com/atdvan/",
-			"hometown": "Vancouver, BC",
-			"genre": "",
-			"description": "",
-			"image": "https://f1.bcbits.com/img/0006287720_21.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd006",
-			"name": "Ate Bit",
-			"link": "https://atebit.bandcamp.com/releases",
-			"hometown": "Beacon, NY",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd007",
-			"name": "Audio Visceral",
-			"link": "https://audiovisceralvkh.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd008",
-			"name": "Avenues",
-			"link": "https://avenuesrock.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd009",
-			"name": "Barrasso",
-			"link": "https://www.facebook.com/barrassomusique",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd010",
-			"name": "Barricade",
-			"link": "https://barricadernhc819.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd011",
-			"name": "Bastardous",
-			"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd012",
-			"name": "Behind Deadlines",
-			"link": "https://behinddeadlines.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd013",
-			"name": "Belvedere",
-			"link": "http://belvedereband.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/belvedere.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd014",
-			"name": "Better Things",
-			"link": "http://betterthingsband.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd015",
-			"name": "Big D And The Kids Table",
-			"link": "http://www.bigdandthekidstable.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/bigd.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd016",
-			"name": "Bike Tuff",
-			"link": "https://bikingtuff.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd017",
-			"name": "Blossom",
-			"link": "https://blossomband.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd018",
-			"name": "Blurry Eyes",
-			"link": "#",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd019",
-			"name": "BOIDS",
-			"link": "https://www.facebook.com/boidsmtl",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd020",
-			"name": "Bong Mountain",
-			"link": "https://bngmtn.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd021",
-			"name": "Bottle Kids",
-			"link": "https://www.facebook.com/bottlekidschicago/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd022",
-			"name": "Brand New Lungs",
-			"link": "https://www.facebook.com/brandnewlungs/?fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd023",
-			"name": "Break Anchor",
-			"link": "https://breakanchor.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd024",
-			"name": "Brendan Kelly",
-			"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/brendankelly.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd025",
-			"name": "Brutal Youth",
-			"link": "https://brutalyouth.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd026",
-			"name": "Bucky Harris",
-			"link": "https://buckyharris.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd027",
-			"name": "Charles Landry",
-			"link": "https://www.facebook.com/tonplusfort/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd028",
-			"name": "Chuck Coles",
-			"link": "https://chuckcoles.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd029",
-			"name": "City Mouse",
-			"link": "https://citymouse.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd030",
-			"name": "Colour Wheel",
-			"link": "http://colourwheelsongs.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd031",
-			"name": "Comedy Acts",
-			"link": "#",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd032",
-			"name": "Condition Oakland",
-			"link": "https://conditionoaklandpa.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd033",
-			"name": "Curt Murder",
-			"link": "https://curtmurderfanclub.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd034",
-			"name": "Cut Up",
-			"link": "https://www.facebook.com/cutupsf/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd035",
-			"name": "Dark Circles",
-			"link": "https://darkcircles.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd036",
-			"name": "Dead Broke",
-			"link": "http://deadbrokeband.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd037",
-			"name": "Dead to Me",
-			"link": "https://www.facebook.com/deadtomesf",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/deadtome.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd038",
-			"name": "Dead Weights",
-			"link": "https://deadweights.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd039",
-			"name": "Dead Words",
-			"link": "https://deadwordstx.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd040",
-			"name": "Deeper Well",
-			"link": "https://deeperwell.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd041",
-			"name": "Deja Mort",
-			"link": "https://www.facebook.com/dejamortmusique/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd042",
-			"name": "Dig It Up",
-			"link": "https://digitup.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd043",
-			"name": "Dirty Kills",
-			"link": "https://dirtykills.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd044",
-			"name": "Dowsing",
-			"link": "https://www.facebook.com/Dowsingband/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd045",
-			"name": "Dragged In",
-			"link": "https://draggedin.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd046",
-			"name": "Drug Church",
-			"link": "https://www.facebook.com/drugchurch/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd047",
-			"name": "Due North",
-			"link": "https://duenorth.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd048",
-			"name": "Elder Abuse",
-			"link": "https://elderabuse.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd049",
-			"name": "Enforcers",
-			"link": "https://www.facebook.com/EnForcersmtl/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd050",
-			"name": "Escape Uken!",
-			"link": "https://escapeuken.bandpage.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd051",
-			"name": "Excess",
-			"link": "https://excessmtl.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd052",
-			"name": "Five Minute Major",
-			"link": "https://fiveminutemajor.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd053",
-			"name": "Flatfoot 56",
-			"link": "http://www.flatfoot56.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd054",
-			"name": "Fourth Son",
-			"link": "https://www.facebook.com/fourthsonhc",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd055",
-			"name": "Frank & Earnest",
-			"link": "https://frankandearnest.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd056",
-			"name": "Fucko",
-			"link": "https://fucko.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd057",
-			"name": "Full Of Hell",
-			"link": "https://www.facebook.com/fullofhell/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd058",
-			"name": "Get Dead",
-			"link": "https://www.facebook.com/getdeadband",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/getdead.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd059",
-			"name": "Get The Shot",
-			"link": "https://gettheshot.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd060",
-			"name": "Golden Python",
-			"link": "https://golden-python.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd061",
-			"name": "Green Cup",
-			"link": "https://www.facebook.com/Green-Cup-11685472553/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd062",
-			"name": "Half Truth",
-			"link": "https://halftruthmtl.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd063",
-			"name": "Harriers",
-			"link": "https://harriersmtl.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd064",
-			"name": "Head Down",
-			"link": "https://www.facebook.com/HeadDownMusic/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd065",
-			"name": "In The Meantime",
-			"link": "https://www.facebook.com/inthemeantimeboston/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd066",
-			"name": "Insubordination",
-			"link": "https://insubordination.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd067",
-			"name": "Jabber",
-			"link": "https://jabberpop.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd068",
-			"name": "Jenn Fiorentino",
-			"link": "http://jennfiorentino.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd069",
-			"name": "Jesse Lebourdais",
-			"link": "https://jesselebourdais.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd070",
-			"name": "Jonathan Becker",
-			"link": "https://jonathanbecker.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd071",
-			"name": "Julius Sumner Miller",
-			"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd072",
-			"name": "Junior Battles",
-			"link": "https://www.facebook.com/juniorbattles",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd073",
-			"name": "Katie Ellen (ex-Chumped)",
-			"link": "https://katiebandellen.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd074",
-			"name": "Kittyhawk",
-			"link": "https://www.facebook.com/apmxhc/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd075",
-			"name": "La Armada",
-			"link": "https://armadahardcore.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd076",
-			"name": "La Querelle",
-			"link": "https://laquerelle.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd077",
-			"name": "Late Night Munchies",
-			"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/nightbirds.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd078",
-			"name": "Lemuria",
-			"link": "http://www.lemuriapop.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/lemuria.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd079",
-			"name": "Les Breastfeeders",
-			"link": "http://www.lesbreastfeeders.ca/en",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/breastfeeders.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd080",
-			"name": "Les Happycuriens",
-			"link": "https://leshappycuriens.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd081",
-			"name": "Less Than Jake",
-			"link": "http://www.lessthanjake.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/lessthanjake2.png",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd082",
-			"name": "Loss Aversion",
-			"link": "https://www.facebook.com/lossaversion/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd083",
-			"name": "Lost Love",
-			"link": "https://lostlove.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd084",
-			"name": "Malfunction",
-			"link": "https://www.facebook.com/Malfunctionhc/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd085",
-			"name": "Mansbridge",
-			"link": "https://www.facebook.com/mansbridgetheband/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd086",
-			"name": "Meat Wave",
-			"link": "https://meatwavechicago.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd087",
-			"name": "Merauder",
-			"link": "http://www.facebook.com/merauderNY",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/merauder.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd088",
-			"name": "Merci Beaute",
-			"link": "http://liguerock.com/LR3/band/merci-beaute",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd089",
-			"name": "Molly Drag",
-			"link": "https://mollydrag.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd090",
-			"name": "Molly Rhythm",
-			"link": "https://mollyrhythm.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd091",
-			"name": "Morgan",
-			"link": "https://www.facebook.com/morganband/?fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd092",
-			"name": "Mountain Man",
-			"link": "https://www.facebook.com/mountainmanhc",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd093",
-			"name": "Murderburgers",
-			"link": "https://themurderburgers.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd094",
-			"name": "Neck",
-			"link": "https://necktunes.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd095",
-			"name": "Night Birds",
-			"link": "https://www.facebook.com/NGHTBRDS/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd096",
-			"name": "Nightmares For A Week",
-			"link": "https://nightmaresforaweek.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd097",
-			"name": "Ninjas N Aliens",
-			"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd098",
-			"name": "Nuke",
-			"link": "https://www.facebook.com/NUKEMTL",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd099",
-			"name": "OC-45",
-			"link": "https://oc45.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd101",
-			"name": "Oh My Snare!",
-			"link": "https://ohmysnare.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd102",
-			"name": "Old Towns",
-			"link": "oldtowns.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd103",
-			"name": "On The Cinder",
-			"link": "https://onthecinder.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd104",
-			"name": "One Flight Down",
-			"link": "https://oneflightdown.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd105",
-			"name": "Pale Lips",
-			"link": "https://palelips.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd106",
-			"name": "Peace Be Still",
-			"link": "https://peacebestill.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd107",
-			"name": "Pistols At Dawn",
-			"link": "http://www.pistolsatdawnpunk.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd108",
-			"name": "Pkew Pkew Pkew",
-			"link": "https://pkewx3.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd109",
-			"name": "PL Mafia",
-			"link": "https://plmafia.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd110",
-			"name": "Pluum",
-			"link": "https://pluum.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd111",
-			"name": "Prowl",
-			"link": "#",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd112",
-			"name": "Ray Rocket (Teenage Bottlerocket)",
-			"link": "http://teenagebottlerocket.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd113",
-			"name": "Rebuilder",
-			"link": "https://rebuilderboston.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd114",
-			"name": "Red Arms",
-			"link": "http://redarms.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd115",
-			"name": "Red Mass",
-			"link": "http://redmassmusic.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd116",
-			"name": "Ringworm",
-			"link": "https://www.facebook.com/Ringworm13/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/ringworm.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd117",
-			"name": "Rusty Feather",
-			"link": "https://rustyfeather.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd118",
-			"name": "S.T.O.P",
-			"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd119",
-			"name": "Sabotage",
-			"link": "http://sabotagehc.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd120",
-			"name": "Sammy Kay",
-			"link": "https://www.facebook.com/sammykaynj/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd121",
-			"name": "Save Ends",
-			"link": "https://saveends.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd122",
-			"name": "Scare",
-			"link": "https://scareqc.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd123",
-			"name": "School Damage",
-			"link": "https://www.facebook.com/schooldamage",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd124",
-			"name": "Seth Anderson",
-			"link": "http://www.sethandersonmusic.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd125",
-			"name": "Sick Of It All",
-			"link": "http://www.sickofitall.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/sickofitall.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd126",
-			"name": "Sink Or Swim",
-			"link": "https://sinkorswimvt.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd127",
-			"name": "Sketchy",
-			"link": "https://thebandsketchy.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd128",
-			"name": "Speed Massacre",
-			"link": "https://speedmassacremtl.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd129",
-			"name": "Stereomonroe",
-			"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd130",
-			"name": "Strengthen What Remains",
-			"link": "https://www.facebook.com/strengthenwhatremains",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd131",
-			"name": "Stuck Out Here",
-			"link": "https://stuckouthere.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd132",
-			"name": "Such Gold",
-			"link": "https://www.facebook.com/suchgold",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/suchgold.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd133",
-			"name": "Suicide Machines",
-			"link": "https://www.facebook.com/suicidemachinesdetroit",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/suicidemachines.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd134",
-			"name": "Sunday",
-			"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd135",
-			"name": "Swinging Flaws",
-			"link": "https://swingingflaws.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd136",
-			"name": "Talk Show Host",
-			"link": "https://welovetalkshowhost.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd137",
-			"name": "Teenage Halloween",
-			"link": "https://tngehllwn.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd138",
-			"name": "The Beatdown",
-			"link": "https://www.facebook.com/TheBeatdown",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd139",
-			"name": "The Cardboard Swords",
-			"link": "http://thecardboardswords.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd140",
-			"name": "The Copyrights",
-			"link": "https://www.facebook.com/thecopyrightsband/?fref=ts",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd141",
-			"name": "The Creeps",
-			"link": "https://thecreeps.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd142",
-			"name": "The Dewtons",
-			"link": "https://www.facebook.com/The-Dewtons-175460225798687/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd143",
-			"name": "The Dreadnoughts",
-			"link": "https://www.facebook.com/thedreadnoughts/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/dreadnoughts.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd144",
-			"name": "The Drunken Wobblies",
-			"link": "https://thedrunkenwobblies.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd145",
-			"name": "The Filthy Radicals",
-			"link": "https://thefilthyradicals1.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd146",
-			"name": "The Fleshtones",
-			"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd147",
-			"name": "The Hunters",
-			"link": "http://thehuntersmusic.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd148",
-			"name": "The Lippies",
-			"link": "https://thelippies.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd149",
-			"name": "The Nasties",
-			"link": "http://www.thenasties.net/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd150",
-			"name": "The Penske File",
-			"link": "https://www.facebook.com/thepenskefile/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd151",
-			"name": "The Planet Smashers",
-			"link": "https://www.facebook.com/ThePlanetSmashers/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/planetsmashers.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd152",
-			"name": "The Putz",
-			"link": "http://theputz.bandcamp.com/music",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd153",
-			"name": "The Raging Nathans",
-			"link": "https://www.facebook.com/TheRagingNathans/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd154",
-			"name": "The Red Owls",
-			"link": "https://www.facebook.com/theredowls/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd155",
-			"name": "The Rememberables",
-			"link": "https://www.facebook.com/rememberables/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd156",
-			"name": "the sainte catherines",
-			"link": "#",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "http://pouzzafest.com/images/bands/sainte4.jpg",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd157",
-			"name": "The Slow Death",
-			"link": "https://www.facebook.com/theslowdeath/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd158",
-			"name": "The Snails",
-			"link": "https://thesnailsband.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd159",
-			"name": "The Stragglers",
-			"link": "https://stragglers.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd160",
-			"name": "The Valveenus",
-			"link": "https://valveenus.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd161",
-			"name": "The Weak Days",
-			"link": "https://thaweakdays.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd162",
-			"name": "Townes Cosentino",
-			"link": "https://townescosentino.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd163",
-			"name": "Trail of Lies",
-			"link": "https://www.facebook.com/trailoflies315/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd164",
-			"name": "Trophy Lungs",
-			"link": "https://trophylungs.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd165",
-			"name": "TRSTSS",
-			"link": "https://trstss.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd166",
-			"name": "Typesetter",
-			"link": "https://typesetter.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd167",
-			"name": "Undesirable People",
-			"link": "https://www.facebook.com/undesirablepeople/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd168",
-			"name": "Up For Nothing",
-			"link": "https://upfornothing.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd169",
-			"name": "Vulgar Deli",
-			"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd170",
-			"name": "Walk The Plank",
-			"link": "http://walktheplank.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd171",
-			"name": "Wasted Potential",
-			"link": "https://wastedpotential.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd172",
-			"name": "Wayne Kennedy",
-			"link": "https://waynekennedy.bandcamp.com/releases",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd173",
-			"name": "WD40",
-			"link": "https://wd-40.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd174",
-			"name": "Weak Ends",
-			"link": "https://weakends.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd175",
-			"name": "Wild Side",
-			"link": "https://wildsidehc.bandcamp.com",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd176",
-			"name": "Windoc",
-			"link": "https://windoc.bandcamp.com/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd177",
-			"name": "Wolf-Face",
-			"link": "https://www.facebook.com/pubesonmyface/",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		},
-		{
-			"id": "bd178",
-			"name": "You Vandal",
-			"link": "https://www.facebook.com/youvandalfl",
-			"hometown": "",
-			"genre": "",
-			"description": "",
-			"image": "",
-			"events": [
-				{
-					"venue": "",
-					"date": "",
-					"time": ""
-				}
-			],
-			"similarArtist": [
-				{ "name": "" }
-			]
-		}
-	]
-}
+[
+	{
+		"id": "bd001",
+		"name": "A Minor Revolution",
+		"link": "https://aminorrevolution.bandcamp.com/",
+		"hometown": "Dover, NH",
+		"genre": "Punk Rock",
+		"description": "A Minor Revolution is a new hampshire punk rock band featuring a pair of saxophones to give a dark-ska influence to their already unique punk sound.",
+		"image": "",
+		"events": [
+			{
+				"venue": "That Place",
+				"date": "2016-05-20",
+				"time": "19:00"
+			},
+			{
+				"venue": "That other Place",
+				"date": "2016-05-21",
+				"time": "16:00"
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd002",
+		"name": "A Perfect Murder",
+		"link": "https://www.facebook.com/apmxhc/",
+		"hometown": "Drummondville, Granby, PQ",
+		"genre": "Metal / Hardcore",
+		"description": "While it can be argued that some cats indeed have nine lives, the same cannot always be said about metal and hardcore bands, with even the luckiest enjoying two but rarely more. Sprouting up nearly six years ago from the extreme music mecca of Canada and even North America at large, Montreal Quebec, A Perfect Murder beat the odds and are now on their third or fourth life at least. But time is still on their side; the band began recording when still in their teens, highlighting an early appetite for crafting heavy music not unlike legendary acts Led Zeppelin, Black Sabbath, Metallica, and Pantera did during their formative years.",
+		"image": "",
+		"events": [
+			{
+				"venue": "That Place",
+				"date": "2016-05-21",
+				"time": "21:00"
+			}
+		],
+		"similarArtist": [
+			{ "name": "Throwdown" },
+			{ "name": "Full Blown Chaos" },
+			{ "name": "Kings of Sorrow"}
+		]
+	},
+	{
+		"id": "bd003",
+		"name": "Apes",
+		"link": "https://apesqc.bandcamp.com/",
+		"hometown": "Quebec City, PQ",
+		"genre": "Dark hardcore/grind",
+		"description": "No heaven, no hell, just pain, then death ",
+		"image": "",
+		"events": [
+			{
+				"venue": "That Other Place",
+				"date": "2016-05-22",
+				"time": "10:00"
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd004",
+		"name": "Ariane Zita",
+		"link": "https://www.facebook.com/arianezitamusique/?fref=ts",
+		"hometown": "Montréal, PQ",
+		"genre": "Indie Folk",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "Chloé Lacasse" },
+			{ "name": "Philémon Cimon" },
+			{ "name": "Chantal Archambault" }
+		]
+	},
+	{
+		"id": "bd005",
+		"name": "ATD",
+		"link": "https://www.facebook.com/atdvan/",
+		"hometown": "Vancouver, BC",
+		"genre": "",
+		"description": "",
+		"image": "https://f1.bcbits.com/img/0006287720_21.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd006",
+		"name": "Ate Bit",
+		"link": "https://atebit.bandcamp.com/releases",
+		"hometown": "Beacon, NY",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd007",
+		"name": "Audio Visceral",
+		"link": "https://audiovisceralvkh.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd008",
+		"name": "Avenues",
+		"link": "https://avenuesrock.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd009",
+		"name": "Barrasso",
+		"link": "https://www.facebook.com/barrassomusique",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd010",
+		"name": "Barricade",
+		"link": "https://barricadernhc819.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd011",
+		"name": "Bastardous",
+		"link": "https://www.facebook.com/Bastardous-329322653860353/?fref=nf",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd012",
+		"name": "Behind Deadlines",
+		"link": "https://behinddeadlines.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd013",
+		"name": "Belvedere",
+		"link": "http://belvedereband.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/belvedere.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd014",
+		"name": "Better Things",
+		"link": "http://betterthingsband.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd015",
+		"name": "Big D And The Kids Table",
+		"link": "http://www.bigdandthekidstable.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/bigd.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd016",
+		"name": "Bike Tuff",
+		"link": "https://bikingtuff.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd017",
+		"name": "Blossom",
+		"link": "https://blossomband.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd018",
+		"name": "Blurry Eyes",
+		"link": "#",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd019",
+		"name": "BOIDS",
+		"link": "https://www.facebook.com/boidsmtl",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd020",
+		"name": "Bong Mountain",
+		"link": "https://bngmtn.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd021",
+		"name": "Bottle Kids",
+		"link": "https://www.facebook.com/bottlekidschicago/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd022",
+		"name": "Brand New Lungs",
+		"link": "https://www.facebook.com/brandnewlungs/?fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd023",
+		"name": "Break Anchor",
+		"link": "https://breakanchor.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd024",
+		"name": "Brendan Kelly",
+		"link": "https://www.youtube.com/watch?v=KVHx-N1hk5k",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/brendankelly.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd025",
+		"name": "Brutal Youth",
+		"link": "https://brutalyouth.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd026",
+		"name": "Bucky Harris",
+		"link": "https://buckyharris.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd027",
+		"name": "Charles Landry",
+		"link": "https://www.facebook.com/tonplusfort/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd028",
+		"name": "Chuck Coles",
+		"link": "https://chuckcoles.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd029",
+		"name": "City Mouse",
+		"link": "https://citymouse.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd030",
+		"name": "Colour Wheel",
+		"link": "http://colourwheelsongs.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd031",
+		"name": "Comedy Acts",
+		"link": "#",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd032",
+		"name": "Condition Oakland",
+		"link": "https://conditionoaklandpa.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd033",
+		"name": "Curt Murder",
+		"link": "https://curtmurderfanclub.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd034",
+		"name": "Cut Up",
+		"link": "https://www.facebook.com/cutupsf/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd035",
+		"name": "Dark Circles",
+		"link": "https://darkcircles.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd036",
+		"name": "Dead Broke",
+		"link": "http://deadbrokeband.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd037",
+		"name": "Dead to Me",
+		"link": "https://www.facebook.com/deadtomesf",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/deadtome.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd038",
+		"name": "Dead Weights",
+		"link": "https://deadweights.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd039",
+		"name": "Dead Words",
+		"link": "https://deadwordstx.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd040",
+		"name": "Deeper Well",
+		"link": "https://deeperwell.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd041",
+		"name": "Deja Mort",
+		"link": "https://www.facebook.com/dejamortmusique/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd042",
+		"name": "Dig It Up",
+		"link": "https://digitup.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd043",
+		"name": "Dirty Kills",
+		"link": "https://dirtykills.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd044",
+		"name": "Dowsing",
+		"link": "https://www.facebook.com/Dowsingband/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd045",
+		"name": "Dragged In",
+		"link": "https://draggedin.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd046",
+		"name": "Drug Church",
+		"link": "https://www.facebook.com/drugchurch/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd047",
+		"name": "Due North",
+		"link": "https://duenorth.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd048",
+		"name": "Elder Abuse",
+		"link": "https://elderabuse.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd049",
+		"name": "Enforcers",
+		"link": "https://www.facebook.com/EnForcersmtl/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd050",
+		"name": "Escape Uken!",
+		"link": "https://escapeuken.bandpage.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd051",
+		"name": "Excess",
+		"link": "https://excessmtl.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd052",
+		"name": "Five Minute Major",
+		"link": "https://fiveminutemajor.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd053",
+		"name": "Flatfoot 56",
+		"link": "http://www.flatfoot56.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd054",
+		"name": "Fourth Son",
+		"link": "https://www.facebook.com/fourthsonhc",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd055",
+		"name": "Frank & Earnest",
+		"link": "https://frankandearnest.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd056",
+		"name": "Fucko",
+		"link": "https://fucko.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd057",
+		"name": "Full Of Hell",
+		"link": "https://www.facebook.com/fullofhell/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd058",
+		"name": "Get Dead",
+		"link": "https://www.facebook.com/getdeadband",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/getdead.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd059",
+		"name": "Get The Shot",
+		"link": "https://gettheshot.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd060",
+		"name": "Golden Python",
+		"link": "https://golden-python.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd061",
+		"name": "Green Cup",
+		"link": "https://www.facebook.com/Green-Cup-11685472553/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd062",
+		"name": "Half Truth",
+		"link": "https://halftruthmtl.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd063",
+		"name": "Harriers",
+		"link": "https://harriersmtl.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd064",
+		"name": "Head Down",
+		"link": "https://www.facebook.com/HeadDownMusic/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd065",
+		"name": "In The Meantime",
+		"link": "https://www.facebook.com/inthemeantimeboston/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd066",
+		"name": "Insubordination",
+		"link": "https://insubordination.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd067",
+		"name": "Jabber",
+		"link": "https://jabberpop.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd068",
+		"name": "Jenn Fiorentino",
+		"link": "http://jennfiorentino.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd069",
+		"name": "Jesse Lebourdais",
+		"link": "https://jesselebourdais.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd070",
+		"name": "Jonathan Becker",
+		"link": "https://jonathanbecker.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd071",
+		"name": "Julius Sumner Miller",
+		"link": "https://www.facebook.com/Julius-Sumner-Miller-257182041112969/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd072",
+		"name": "Junior Battles",
+		"link": "https://www.facebook.com/juniorbattles",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd073",
+		"name": "Katie Ellen (ex-Chumped)",
+		"link": "https://katiebandellen.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd074",
+		"name": "Kittyhawk",
+		"link": "https://www.facebook.com/apmxhc/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd075",
+		"name": "La Armada",
+		"link": "https://armadahardcore.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd076",
+		"name": "La Querelle",
+		"link": "https://laquerelle.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd077",
+		"name": "Late Night Munchies",
+		"link": "https://www.facebook.com/Late-Night-Munchies-210591624561/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/nightbirds.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd078",
+		"name": "Lemuria",
+		"link": "http://www.lemuriapop.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/lemuria.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd079",
+		"name": "Les Breastfeeders",
+		"link": "http://www.lesbreastfeeders.ca/en",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/breastfeeders.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd080",
+		"name": "Les Happycuriens",
+		"link": "https://leshappycuriens.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd081",
+		"name": "Less Than Jake",
+		"link": "http://www.lessthanjake.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/lessthanjake2.png",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd082",
+		"name": "Loss Aversion",
+		"link": "https://www.facebook.com/lossaversion/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd083",
+		"name": "Lost Love",
+		"link": "https://lostlove.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd084",
+		"name": "Malfunction",
+		"link": "https://www.facebook.com/Malfunctionhc/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd085",
+		"name": "Mansbridge",
+		"link": "https://www.facebook.com/mansbridgetheband/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd086",
+		"name": "Meat Wave",
+		"link": "https://meatwavechicago.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd087",
+		"name": "Merauder",
+		"link": "http://www.facebook.com/merauderNY",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/merauder.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd088",
+		"name": "Merci Beaute",
+		"link": "http://liguerock.com/LR3/band/merci-beaute",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd089",
+		"name": "Molly Drag",
+		"link": "https://mollydrag.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd090",
+		"name": "Molly Rhythm",
+		"link": "https://mollyrhythm.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd091",
+		"name": "Morgan",
+		"link": "https://www.facebook.com/morganband/?fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd092",
+		"name": "Mountain Man",
+		"link": "https://www.facebook.com/mountainmanhc",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd093",
+		"name": "Murderburgers",
+		"link": "https://themurderburgers.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd094",
+		"name": "Neck",
+		"link": "https://necktunes.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd095",
+		"name": "Night Birds",
+		"link": "https://www.facebook.com/NGHTBRDS/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd096",
+		"name": "Nightmares For A Week",
+		"link": "https://nightmaresforaweek.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd097",
+		"name": "Ninjas N Aliens",
+		"link": "https://ninjasnaliens.bandcamp.com/album/ninjasnaliens-full-album",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd098",
+		"name": "Nuke",
+		"link": "https://www.facebook.com/NUKEMTL",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd099",
+		"name": "OC-45",
+		"link": "https://oc45.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd101",
+		"name": "Oh My Snare!",
+		"link": "https://ohmysnare.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd102",
+		"name": "Old Towns",
+		"link": "oldtowns.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd103",
+		"name": "On The Cinder",
+		"link": "https://onthecinder.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd104",
+		"name": "One Flight Down",
+		"link": "https://oneflightdown.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd105",
+		"name": "Pale Lips",
+		"link": "https://palelips.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd106",
+		"name": "Peace Be Still",
+		"link": "https://peacebestill.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd107",
+		"name": "Pistols At Dawn",
+		"link": "http://www.pistolsatdawnpunk.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd108",
+		"name": "Pkew Pkew Pkew",
+		"link": "https://pkewx3.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd109",
+		"name": "PL Mafia",
+		"link": "https://plmafia.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd110",
+		"name": "Pluum",
+		"link": "https://pluum.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd111",
+		"name": "Prowl",
+		"link": "#",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd112",
+		"name": "Ray Rocket (Teenage Bottlerocket)",
+		"link": "http://teenagebottlerocket.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd113",
+		"name": "Rebuilder",
+		"link": "https://rebuilderboston.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd114",
+		"name": "Red Arms",
+		"link": "http://redarms.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd115",
+		"name": "Red Mass",
+		"link": "http://redmassmusic.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd116",
+		"name": "Ringworm",
+		"link": "https://www.facebook.com/Ringworm13/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/ringworm.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd117",
+		"name": "Rusty Feather",
+		"link": "https://rustyfeather.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd118",
+		"name": "S.T.O.P",
+		"link": "https://www.facebook.com/STOP-437301059636726/?fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd119",
+		"name": "Sabotage",
+		"link": "http://sabotagehc.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd120",
+		"name": "Sammy Kay",
+		"link": "https://www.facebook.com/sammykaynj/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd121",
+		"name": "Save Ends",
+		"link": "https://saveends.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd122",
+		"name": "Scare",
+		"link": "https://scareqc.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd123",
+		"name": "School Damage",
+		"link": "https://www.facebook.com/schooldamage",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd124",
+		"name": "Seth Anderson",
+		"link": "http://www.sethandersonmusic.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd125",
+		"name": "Sick Of It All",
+		"link": "http://www.sickofitall.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/sickofitall.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd126",
+		"name": "Sink Or Swim",
+		"link": "https://sinkorswimvt.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd127",
+		"name": "Sketchy",
+		"link": "https://thebandsketchy.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd128",
+		"name": "Speed Massacre",
+		"link": "https://speedmassacremtl.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd129",
+		"name": "Stereomonroe",
+		"link": "https://www.facebook.com/Stereomonroe/?ref=ts&amp;fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd130",
+		"name": "Strengthen What Remains",
+		"link": "https://www.facebook.com/strengthenwhatremains",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd131",
+		"name": "Stuck Out Here",
+		"link": "https://stuckouthere.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd132",
+		"name": "Such Gold",
+		"link": "https://www.facebook.com/suchgold",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/suchgold.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd133",
+		"name": "Suicide Machines",
+		"link": "https://www.facebook.com/suicidemachinesdetroit",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/suicidemachines.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd134",
+		"name": "Sunday",
+		"link": "https://www.facebook.com/sundaymtl/?ref=ts&amp;fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd135",
+		"name": "Swinging Flaws",
+		"link": "https://swingingflaws.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd136",
+		"name": "Talk Show Host",
+		"link": "https://welovetalkshowhost.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd137",
+		"name": "Teenage Halloween",
+		"link": "https://tngehllwn.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd138",
+		"name": "The Beatdown",
+		"link": "https://www.facebook.com/TheBeatdown",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd139",
+		"name": "The Cardboard Swords",
+		"link": "http://thecardboardswords.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd140",
+		"name": "The Copyrights",
+		"link": "https://www.facebook.com/thecopyrightsband/?fref=ts",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd141",
+		"name": "The Creeps",
+		"link": "https://thecreeps.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd142",
+		"name": "The Dewtons",
+		"link": "https://www.facebook.com/The-Dewtons-175460225798687/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd143",
+		"name": "The Dreadnoughts",
+		"link": "https://www.facebook.com/thedreadnoughts/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/dreadnoughts.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd144",
+		"name": "The Drunken Wobblies",
+		"link": "https://thedrunkenwobblies.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd145",
+		"name": "The Filthy Radicals",
+		"link": "https://thefilthyradicals1.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd146",
+		"name": "The Fleshtones",
+		"link": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "https://www.facebook.com/The-Fleshtones-Official-177240861436/",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd147",
+		"name": "The Hunters",
+		"link": "http://thehuntersmusic.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd148",
+		"name": "The Lippies",
+		"link": "https://thelippies.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd149",
+		"name": "The Nasties",
+		"link": "http://www.thenasties.net/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd150",
+		"name": "The Penske File",
+		"link": "https://www.facebook.com/thepenskefile/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd151",
+		"name": "The Planet Smashers",
+		"link": "https://www.facebook.com/ThePlanetSmashers/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/planetsmashers.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd152",
+		"name": "The Putz",
+		"link": "http://theputz.bandcamp.com/music",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd153",
+		"name": "The Raging Nathans",
+		"link": "https://www.facebook.com/TheRagingNathans/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd154",
+		"name": "The Red Owls",
+		"link": "https://www.facebook.com/theredowls/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd155",
+		"name": "The Rememberables",
+		"link": "https://www.facebook.com/rememberables/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd156",
+		"name": "the sainte catherines",
+		"link": "#",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "http://pouzzafest.com/images/bands/sainte4.jpg",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd157",
+		"name": "The Slow Death",
+		"link": "https://www.facebook.com/theslowdeath/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd158",
+		"name": "The Snails",
+		"link": "https://thesnailsband.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd159",
+		"name": "The Stragglers",
+		"link": "https://stragglers.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd160",
+		"name": "The Valveenus",
+		"link": "https://valveenus.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd161",
+		"name": "The Weak Days",
+		"link": "https://thaweakdays.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd162",
+		"name": "Townes Cosentino",
+		"link": "https://townescosentino.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd163",
+		"name": "Trail of Lies",
+		"link": "https://www.facebook.com/trailoflies315/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd164",
+		"name": "Trophy Lungs",
+		"link": "https://trophylungs.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd165",
+		"name": "TRSTSS",
+		"link": "https://trstss.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd166",
+		"name": "Typesetter",
+		"link": "https://typesetter.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd167",
+		"name": "Undesirable People",
+		"link": "https://www.facebook.com/undesirablepeople/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd168",
+		"name": "Up For Nothing",
+		"link": "https://upfornothing.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd169",
+		"name": "Vulgar Deli",
+		"link": "https://www.facebook.com/The-Vulgar-Deli-7797174911/?ref=nf",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd170",
+		"name": "Walk The Plank",
+		"link": "http://walktheplank.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd171",
+		"name": "Wasted Potential",
+		"link": "https://wastedpotential.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd172",
+		"name": "Wayne Kennedy",
+		"link": "https://waynekennedy.bandcamp.com/releases",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd173",
+		"name": "WD40",
+		"link": "https://wd-40.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd174",
+		"name": "Weak Ends",
+		"link": "https://weakends.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd175",
+		"name": "Wild Side",
+		"link": "https://wildsidehc.bandcamp.com",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd176",
+		"name": "Windoc",
+		"link": "https://windoc.bandcamp.com/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd177",
+		"name": "Wolf-Face",
+		"link": "https://www.facebook.com/pubesonmyface/",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	},
+	{
+		"id": "bd178",
+		"name": "You Vandal",
+		"link": "https://www.facebook.com/youvandalfl",
+		"hometown": "",
+		"genre": "",
+		"description": "",
+		"image": "",
+		"events": [
+			{
+				"venue": "",
+				"date": "",
+				"time": ""
+			}
+		],
+		"similarArtist": [
+			{ "name": "" }
+		]
+	}
+]
