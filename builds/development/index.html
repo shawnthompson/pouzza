@@ -3,9 +3,9 @@
 <head>
 	<title>Plansmash's Pouzzafest 2016 App</title>
 	<meta content="width=device-width,initial-scale=1" name="viewport">
-<script src="css/bower.css"></script>
 <!-- Latest compiled and minified CSS & JS -->
-<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/style.css" />
 </head>
 <body>
 <nav class="navbar navbar-default" role="navigation">
@@ -68,7 +68,7 @@
 
 	<div class="row" data-ng-controller="bandListCtrl">
 
-<div data-ng-repeat="band in bands.bands | filter:bandList.search">
+<div data-ng-repeat="band in bands | filter:bandList.search">
 		<a data-toggle="modal" data-target="#modal{{band.id}}" href="#modal{{band.id}}">
 		<section class="col-md-3 col-sm-6">
 			<div class="panel panel-default">
@@ -125,6 +125,6 @@
 </div>
 
 
-<script src="js/bower.js"></script>
+<script src="./js/scripts.js"></script>
 </body>
 </html>
