@@ -37,20 +37,20 @@ module.exports = function(grunt) {
 		// 	}
 		// },
 
-spreadsheet_to_json: {
-	options: {
-		keyfile: 'sheetsAPI.json'
-	},
+// spreadsheet_to_json: {
+// 	options: {
+// 		keyfile: './components/scripts/sheetsAPI.json'
+// 	},
 
-	data: {
-		options: {
-			spreadsheetId: '15CQjePyGMVarcr5cyYo_kUjZaJ0jiKGUmMW4Yu93qbA',
-			ignoreColumns: ['annotations'] // optional
-		},
+// 	data: {
+// 		options: {
+// 			spreadsheetId: '15CQjePyGMVarcr5cyYo_kUjZaJ0jiKGUmMW4Yu93qbA',
+// 			ignoreColumns: ['annotations'] // optional
+// 		},
 
-		dest: './components/scripts/new-data.json'
-	}
-},
+// 		dest: './components/scripts/new-data.json'
+// 	}
+// },
 
 		sass : {
 			dist : {
@@ -110,7 +110,7 @@ spreadsheet_to_json: {
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-sass');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
-	grunt.loadNpmTasks('grunt-spreadsheet-to-json');
+	// grunt.loadNpmTasks('grunt-spreadsheet-to-json');
 	// grunt.loadNpmTasks('grunt-bower-concat');
 	// grunt.loadNpmTasks('grunt-contrib-watch');
 	// grunt.loadNpmTasks('grunt-contrib-connect');
@@ -119,7 +119,7 @@ spreadsheet_to_json: {
 			'bower',
 			'copy',
 			'concat',
-			'spreadsheet_to_json',
+			// 'spreadsheet_to_json',
 			// 'bower_concat',
 			'sass',
 			'cssmin'
