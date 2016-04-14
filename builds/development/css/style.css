@@ -1,3 +1,22 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+body {
+  background-color: #333; }
+
+.panel .panel-heading {
+  color: #ccc;
+  background-color: #000;
+  position: relative;
+  height: 75px; }
+  .panel .panel-heading .label {
+    color: #fff;
+    background-color: red;
+    position: absolute;
+    bottom: 3px;
+    right: 3px; }
+
+.panel .panel-body img {
+  height: 150px; }
+
 .mrgn-lft-0 {
   margin-left: 0; }
 
@@ -57,21 +76,3 @@
 
 .mrgn-rght-xl {
   margin-right: 50px; }
-
-.panel .panel-heading {
-  color: #ccc;
-  background-color: #000;
-  position: relative;
-  height: 75px; }
-  .panel .panel-heading .label {
-    color: #fff;
-    background-color: red;
-    position: absolute;
-    bottom: 3px;
-    right: 3px; }
-
-.panel .panel-body img {
-  height: 150px; }
-
-body {
-  background-color: #333; }

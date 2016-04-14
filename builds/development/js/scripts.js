@@ -328,7 +328,7 @@ c){var e=a|0,f=c;u===f&&(f=Math.min(b(a),3));Math.pow(10,f);return 1==e&&0==f?"o
 var bandList = angular.module('bandList', []);
 
 bandList.controller('bandListCtrl', ['$scope', '$http', function ($scope, $http) {
-  $http.get('https://spreadsheets.google.com/feeds/list/15CQjePyGMVarcr5cyYo_kUjZaJ0jiKGUmMW4Yu93qbA/1/public/values?alt=json').success(function(data) {
+  $http.get('./js/data.json').success(function(data) {
       $scope.bands = data;
   });
 }]);

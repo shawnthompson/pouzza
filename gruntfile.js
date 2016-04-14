@@ -30,28 +30,6 @@ module.exports = function(grunt) {
 			}
 		},
 
-		// bower_concat : {
-		// 	all : {
-		// 		dest : 'builds/development/js/bower.js',
-		// 		cssDest : 'builds/development/css/bower.css'
-		// 	}
-		// },
-
-// spreadsheet_to_json: {
-// 	options: {
-// 		keyfile: './components/scripts/sheetsAPI.json'
-// 	},
-
-// 	data: {
-// 		options: {
-// 			spreadsheetId: '15CQjePyGMVarcr5cyYo_kUjZaJ0jiKGUmMW4Yu93qbA',
-// 			ignoreColumns: ['annotations'] // optional
-// 		},
-
-// 		dest: './components/scripts/new-data.json'
-// 	}
-// },
-
 		sass : {
 			dist : {
 				options : {
@@ -59,7 +37,7 @@ module.exports = function(grunt) {
 				},
 
 				files : [{
-					src : './components/sass/custom.scss',
+					src : './components/sass/styles.scss',
 					dest : './builds/development/css/style.css'
 				}]
 			}
@@ -77,32 +55,6 @@ module.exports = function(grunt) {
 			}
 		},
 
-		// connect : {
-		// 	server : {
-		// 		options : {
-		// 			hostname : 'localhost',
-		// 			port : '8080',
-		// 			base : 'builds/development/'
-		// 		}
-		// 	}
-		// },
-
-		// watch : {
-		// 	js : {
-		// 		files : ['components/scripts/**/*.js'],
-		// 		tasks : ['concat'],
-		// 		options : {
-		// 			spawn : false
-		// 		},
-		// 	},
-		// 	css : {
-		// 		files : ['components/sass/**/*.scss'],
-		// 		tasks : ['sass', 'cssmin'],
-		// 		options : {
-		// 			spawn : false
-		// 		},
-		// 	}
-		// }
 	});
 
 	grunt.loadNpmTasks('grunt-bower-task');
@@ -110,20 +62,13 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-sass');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
-	// grunt.loadNpmTasks('grunt-spreadsheet-to-json');
-	// grunt.loadNpmTasks('grunt-bower-concat');
-	// grunt.loadNpmTasks('grunt-contrib-watch');
-	// grunt.loadNpmTasks('grunt-contrib-connect');
+	grunt.loadNpmTasks('grunt-image-resize');
 	grunt.registerTask(
 		'default', [
 			'bower',
 			'copy',
 			'concat',
-			// 'spreadsheet_to_json',
-			// 'bower_concat',
 			'sass',
 			'cssmin'
-			// 'connect',
-			// 'watch'
 	]);
 };
