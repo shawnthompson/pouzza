@@ -27,6 +27,12 @@ module.exports = function(grunt) {
 				cwd: './bower_components/bootstrap/dist/',
 				src: ['**/*'],
 				dest: './builds/development/bootstrap/'
+			},
+			pages: {
+				expand: true,
+				cwd: 'components/pages/',
+				src:['**/*'],
+				dest: './builds/development/'
 			}
 		},
 
