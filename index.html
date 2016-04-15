@@ -3,11 +3,9 @@
 <head>
 	<title>Plansmash's Pouzzafest 2016 App</title>
 	<meta content="width=device-width,initial-scale=1" name="viewport">
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.js"></script>
-<script src="js/controller.js"></script>
 <!-- Latest compiled and minified CSS & JS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
-<link rel="stylesheet" href="styles/custom.css" />
+<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/style.css" />
 </head>
 <body>
 <nav class="navbar navbar-default" role="navigation">
@@ -53,7 +51,7 @@
 		</div>
 
 		<div class="input-group">
-			<label class="sr-only" for="filterBands">Filter</label>
+			<label class="sr-only" for="filterBands">Search</label>
 			<input type="text" ng-model="bandList.search" class="form-control" id="filterBands" placeholder="Search">
 			<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
 		</div>
@@ -127,7 +125,6 @@
 </div>
 
 
-<script src="//code.jquery.com/jquery.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="./js/scripts.js"></script>
 </body>
 </html>
