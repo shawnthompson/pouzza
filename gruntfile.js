@@ -55,20 +55,37 @@ module.exports = function(grunt) {
 			}
 		},
 
+  responsive_images: {
+    myTask: {
+      options: {
+        sizes: [{
+			height: 150,
+			rename: false
+        }]
+      },
+      files: [{
+        expand: true,
+        src: ['**.{jpg,gif,png}'],
+        cwd: 'components/images/',
+        dest: 'builds/development/img/'
+      }]
+    }
+  }
 	});
 
 	grunt.loadNpmTasks('grunt-bower-task');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-sass');
+	grunt.loadNpmTasks('grunt-responsive-images');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
-	grunt.loadNpmTasks('grunt-image-resize');
 	grunt.registerTask(
 		'default', [
 			'bower',
 			'copy',
 			'concat',
 			'sass',
+			'responsive_images',
 			'cssmin'
 	]);
 };
