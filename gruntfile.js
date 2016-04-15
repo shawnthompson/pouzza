@@ -33,6 +33,12 @@ module.exports = function(grunt) {
 				cwd: 'components/pages/',
 				src:['**/*'],
 				dest: './builds/development/'
+			},
+			js: {
+				expand: true,
+				cwd: 'components/scripts/',
+				src: ['**/*'],
+				dest: 'builds/development/js/'
 			}
 		},
 
