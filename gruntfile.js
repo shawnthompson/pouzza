@@ -55,22 +55,30 @@ module.exports = function(grunt) {
 			}
 		},
 
-  responsive_images: {
-    myTask: {
-      options: {
-        sizes: [{
-			height: 150,
-			rename: false
-        }]
-      },
-      files: [{
-        expand: true,
-        src: ['**.{jpg,gif,png}'],
-        cwd: 'components/images/',
-        dest: 'builds/development/img/'
-      }]
-    }
-  }
+		responsive_images: {
+			myTask: {
+				options: {
+					sizes: [{
+						height: 150,
+						rename: false
+					}]
+				},
+				files: [{
+					expand: true,
+					src: ['**.{jpg,gif,png}'],
+					cwd: './components/images/',
+					dest: './builds/development/img/'
+				}]
+			}
+		},
+
+		'gh-pages': {
+			options: {
+				base: './builds/development'
+			},
+
+			src: ['**']
+		}
 	});
 
 	grunt.loadNpmTasks('grunt-bower-task');
@@ -79,6 +87,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-sass');
 	grunt.loadNpmTasks('grunt-responsive-images');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
+	grunt.loadNpmTasks('grunt-gh-pages');
 	grunt.registerTask(
 		'default', [
 			'bower',
