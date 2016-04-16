@@ -12,9 +12,9 @@ module.exports = function(grunt) {
 			},
 			dist : {
 				src : [
-					'./bower_components/jquery/dist/jquery.min.js',
-					'./bower_components/bootstrap/dist/js/bootstrap.min.js',
-					'./bower_components/angular/angular.min.js',
+					'./bower_components/jquery/dist/jquery.js',
+					'./bower_components/bootstrap/dist/js/bootstrap.js',
+					'./bower_components/angular/angular.js',
 					'./components/scripts/*.js'
 					],
 				dest : './builds/development/js/scripts.js'
@@ -102,7 +102,6 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-gh-pages');
 	grunt.registerTask(
 		'default', [
-			'bower',
 			'copy',
 			'concat',
 			'sass',
