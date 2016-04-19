@@ -5,19 +5,32 @@ module.exports = function(grunt) {
 			install : {}
 		},
 
-		concat : {
-			options : {
-				seperator: '\n\n//--------------------------------\n',
-				banner: '\n\n//--------------------------------\n'
-			},
-			dist : {
-				src : [
-					'./bower_components/jquery/dist/jquery.js',
-					'./bower_components/bootstrap/dist/js/bootstrap.js',
-					'./bower_components/angular/angular.js',
-					'./components/scripts/*.js'
-					],
-				dest : './builds/development/js/scripts.js'
+		// concat : {
+		// 	options : {
+		// 		seperator: '\n\n//--------------------------------\n',
+		// 		banner: '\n\n//--------------------------------\n'
+		// 	},
+		// 	dist : {
+		// 		src : [
+		// 			'./bower_components/jquery/dist/jquery.js',
+		// 			'./bower_components/bootstrap/dist/js/bootstrap.js',
+		// 			'./bower_components/angular/angular.js',
+		// 			'./components/scripts/*.js'
+		// 			],
+		// 		dest : './builds/development/js/scripts.js'
+		// 	}
+		// },
+
+		uglify: {
+			my_target: {
+				files: {
+					'./builds/development/js/scripts.min.js': [
+						'./bower_components/jquery/dist/jquery.js',
+						'./bower_components/bootstrap/dist/js/bootstrap.js',
+						'./bower_components/angular/angular.js',
+						'./components/scripts/*.js'
+					]
+				}
 			}
 		},
 
@@ -95,7 +108,7 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-bower-task');
 	grunt.loadNpmTasks('grunt-contrib-copy');
-	grunt.loadNpmTasks('grunt-contrib-concat');
+	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-sass');
 	grunt.loadNpmTasks('grunt-responsive-images');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
@@ -103,7 +116,7 @@ module.exports = function(grunt) {
 	grunt.registerTask(
 		'default', [
 			'copy',
-			'concat',
+			'uglify',
 			'sass',
 			'responsive_images',
 			'cssmin'
