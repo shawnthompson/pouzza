@@ -5,30 +5,27 @@ module.exports = function(grunt) {
 			install : {}
 		},
 
-		// concat : {
-		// 	options : {
-		// 		seperator: '\n\n//--------------------------------\n',
-		// 		banner: '\n\n//--------------------------------\n'
-		// 	},
-		// 	dist : {
-		// 		src : [
-		// 			'./bower_components/jquery/dist/jquery.js',
-		// 			'./bower_components/bootstrap/dist/js/bootstrap.js',
-		// 			'./bower_components/angular/angular.js',
-		// 			'./components/scripts/*.js'
-		// 			],
-		// 		dest : './builds/development/js/scripts.js'
-		// 	}
-		// },
+		concat : {
+			options : {
+				seperator: '\n\n//--------------------------------\n',
+				banner: '\n\n//--------------------------------\n'
+			},
+			dist : {
+				src : [
+					'./bower_components/jquery/dist/jquery.js',
+					'./bower_components/bootstrap/dist/js/bootstrap.js',
+					'./bower_components/angular/angular.js',
+					'./components/scripts/*.js'
+					],
+				dest : './builds/development/js/scripts.js'
+			}
+		},
 
 		uglify: {
 			my_target: {
 				files: {
 					'./builds/development/js/scripts.min.js': [
-						'./bower_components/jquery/dist/jquery.js',
-						'./bower_components/bootstrap/dist/js/bootstrap.js',
-						'./bower_components/angular/angular.js',
-						'./components/scripts/*.js'
+						'./builds/development/js/scripts.js'
 					]
 				}
 			}
@@ -103,10 +100,29 @@ module.exports = function(grunt) {
 			},
 
 			src: ['**']
+		},
+
+		watch: {
+			css: {
+				files: ['./components/sass/*.scss'],
+				task: ['sass']
+			},
+
+			html: {
+				files: ['./components/pages/*.*'],
+				task: ['copy:pages']
+			},
+
+			script: {
+				files: ['./components/scripts/*.*'],
+				task: ['concat', 'uglify']
+			}
 		}
 	});
 
 	grunt.loadNpmTasks('grunt-bower-task');
+	grunt.loadNpmTasks('grunt-contrib-concat');
+	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-sass');
@@ -116,9 +132,10 @@ module.exports = function(grunt) {
 	grunt.registerTask(
 		'default', [
 			'copy',
+			'concat',
 			'uglify',
 			'sass',
-			'responsive_images',
+			// 'responsive_images',
 			'cssmin'
 	]);
 };
