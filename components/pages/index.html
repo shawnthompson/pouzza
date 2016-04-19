@@ -97,7 +97,7 @@
 								<dt>When:</dt>
 								<dd property="startDate" content="{{event.date|date:'yyyy-MM-dd'}}">{{event.date | date:'fullDate'}}</dd>
 								<dt>Time:</dt>
-								<dd property="startDate" content="T{{event.time|date: 'HH:mm'}}">{{event.time}}</dd>
+								<dd property="startDate" content="T{{event.start|date: 'HH:mm'}}">{{event.start}} - {{event.end}}</dd>
 							</dl>
 							<h4>Similar artists</h4>
 							<ul class="list-inline">
