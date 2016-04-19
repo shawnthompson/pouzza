@@ -1,4 +1,7 @@
 module.exports = function(grunt) {
+
+	require('load-grunt-tasks')(grunt);
+
 	grunt.initConfig({
 
 		bower : {
@@ -120,15 +123,6 @@ module.exports = function(grunt) {
 		}
 	});
 
-	grunt.loadNpmTasks('grunt-bower-task');
-	grunt.loadNpmTasks('grunt-contrib-concat');
-	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.loadNpmTasks('grunt-contrib-copy');
-	grunt.loadNpmTasks('grunt-contrib-uglify');
-	grunt.loadNpmTasks('grunt-sass');
-	grunt.loadNpmTasks('grunt-responsive-images');
-	grunt.loadNpmTasks('grunt-contrib-cssmin');
-	grunt.loadNpmTasks('grunt-gh-pages');
 	grunt.registerTask(
 		'default', [
 			'copy',
