@@ -1,29 +1,31 @@
 // Panels styles
 .panel {
 
-    .panel-body {
+  .panel-body {
 
-        p {
-            height: 200px;
-            background-clip: cover;
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-size: 100%;
-        }
+    p {
+        height: 200px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
+  }
 
-    .panel-heading {
-        color: #ccc;
-        background-color: #000;
-        position: relative;
-        height: 75px;
+  .panel-heading {
+      color: #ccc;
+      background-color: #000;
+      position: relative;
+      height: 75px;
 
-        .label {
-            color: #fff;
-            background-color: red;
-            position: absolute;
-            bottom: 3px;
-            right: 3px;
-        }
+    .label {
+        color: #fff;
+        background-color: red;
+        position: absolute;
+        bottom: 3px;
+        right: 3px;
     }
+  }
 }
