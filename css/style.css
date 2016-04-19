@@ -4,10 +4,12 @@ body {
 
 .panel .panel-body p {
   height: 200px;
-  background-clip: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: 100%; }
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
 
 .panel .panel-heading {
   color: #ccc;
