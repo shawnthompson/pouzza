@@ -107,18 +107,18 @@ module.exports = function(grunt) {
 
 		watch: {
 			css: {
-				files: ['./components/sass/*.scss'],
-				task: ['sass']
+				files: ['./components/sass/*.*'],
+				tasks: ['sass']
 			},
 
 			html: {
-				files: ['./components/pages/*.*'],
-				task: ['copy:pages']
+				files: ['./components/pages/*.html'],
+				tasks: ['copy:pages']
 			},
 
 			script: {
 				files: ['./components/scripts/*.*'],
-				task: ['concat', 'uglify']
+				tasks: ['concat', 'uglify']
 			}
 		}
 	});
