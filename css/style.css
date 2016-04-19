@@ -82,3 +82,8 @@ body {
 
 .mrgn-rght-xl {
   margin-right: 50px; }
+
+.alert {
+  background-color: #aaa;
+  color: #ff0000;
+  font-size: 1.5em; }
