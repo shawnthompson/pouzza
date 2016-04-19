@@ -10,12 +10,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:00",
+    "event1_end":"18:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd002",
@@ -28,12 +31,15 @@
     "similar1":"Throwdown",
     "similar2":"Full Blown Chaos",
     "similar3":"Kings of Sorrow",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"23:00",
+    "event1_end":"23:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd003",
@@ -48,10 +54,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd004",
@@ -66,10 +75,13 @@
     "similar3":"Chantal Archambault",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd005",
@@ -84,10 +96,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd006",
@@ -102,10 +117,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd007",
@@ -120,10 +138,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd008",
@@ -138,10 +159,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd009",
@@ -154,12 +178,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:45",
+    "event1_end":"1:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd010",
@@ -172,12 +199,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:15",
+    "event1_end":"18:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd011",
@@ -192,10 +222,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd012",
@@ -210,10 +243,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd013",
@@ -228,10 +264,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd014",
@@ -246,10 +285,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd015",
@@ -262,12 +304,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:00",
+    "event1_end":"21:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd016",
@@ -280,12 +325,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:30",
+    "event1_end":"21:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd017",
@@ -298,12 +346,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:00",
+    "event1_end":"20:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd018",
@@ -318,10 +369,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd019",
@@ -336,10 +390,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd020",
@@ -354,10 +411,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd021",
@@ -372,10 +432,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd022",
@@ -390,10 +453,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd023",
@@ -408,10 +474,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd024",
@@ -426,10 +495,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd025",
@@ -442,12 +514,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:15",
+    "event1_end":"21:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd026",
@@ -460,12 +535,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:00",
+    "event1_end":"21:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd027",
@@ -480,10 +558,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd028",
@@ -498,10 +579,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd029",
@@ -516,10 +600,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd030",
@@ -532,12 +619,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:15",
+    "event1_end":"19:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd031",
@@ -552,10 +642,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd032",
@@ -568,12 +661,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufounes",
+    "event1_date":"5/22/2016",
+    "event1_start":"12:30",
+    "event1_end":"1:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd033",
@@ -588,10 +684,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd034",
@@ -604,12 +703,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:15",
+    "event1_end":"20:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd035",
@@ -624,10 +726,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd036",
@@ -642,10 +747,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd037",
@@ -660,10 +768,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd038",
@@ -678,10 +789,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd039",
@@ -696,10 +810,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd040",
@@ -714,10 +831,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd041",
@@ -730,12 +850,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:00",
+    "event1_end":"19:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd042",
@@ -750,10 +873,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd043",
@@ -768,10 +894,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd044",
@@ -786,10 +915,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd045",
@@ -802,12 +934,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:15",
+    "event1_end":"18:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd046",
@@ -822,10 +957,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd047",
@@ -840,10 +978,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd048",
@@ -856,12 +997,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:00",
+    "event1_end":"19:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd049",
@@ -876,10 +1020,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd050",
@@ -892,12 +1039,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:30",
+    "event1_end":"21:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd051",
@@ -910,12 +1060,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:30",
+    "event1_end":"21:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd052",
@@ -928,12 +1081,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Frite Alors!",
+    "event1_date":"5/20/2016",
+    "event1_start":"23:15",
+    "event1_end":"23:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd053",
@@ -948,10 +1104,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd054",
@@ -966,10 +1125,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd055",
@@ -984,10 +1146,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd056",
@@ -1002,10 +1167,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd057",
@@ -1020,10 +1188,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd058",
@@ -1038,10 +1209,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd059",
@@ -1054,12 +1228,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:00",
+    "event1_end":"22:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd060",
@@ -1074,10 +1251,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd061",
@@ -1092,10 +1272,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd062",
@@ -1108,12 +1291,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:45",
+    "event1_end":"20:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd063",
@@ -1128,10 +1314,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd064",
@@ -1144,12 +1333,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:15",
+    "event1_end":"21:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd065",
@@ -1164,10 +1356,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd066",
@@ -1180,12 +1375,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"17:30",
+    "event1_end":"18:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd067",
@@ -1200,10 +1398,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd068",
@@ -1218,10 +1419,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd069",
@@ -1234,12 +1438,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:15",
+    "event1_end":"18:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd070",
@@ -1254,10 +1461,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd071",
@@ -1272,10 +1482,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd072",
@@ -1290,10 +1503,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd073",
@@ -1308,10 +1524,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd074",
@@ -1326,10 +1545,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd075",
@@ -1344,10 +1566,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd076",
@@ -1362,10 +1587,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd077",
@@ -1380,10 +1608,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd078",
@@ -1396,12 +1627,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/21/2016",
+    "event1_start":"1:00",
+    "event1_end":"1:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd079",
@@ -1416,10 +1650,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd080",
@@ -1432,12 +1669,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:45",
+    "event1_end":"19:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd081",
@@ -1452,10 +1692,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd082",
@@ -1470,10 +1713,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd083",
@@ -1486,12 +1732,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/22/2016",
+    "event1_start":"13:15",
+    "event1_end":"13:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd084",
@@ -1506,10 +1755,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd085",
@@ -1522,12 +1774,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"17:30",
+    "event1_end":"18:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd087",
@@ -1542,10 +1797,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd088",
@@ -1560,10 +1818,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd089",
@@ -1578,10 +1839,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd090",
@@ -1594,12 +1858,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/21/2016",
+    "event1_start":"1:00",
+    "event1_end":"1:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd091",
@@ -1614,10 +1881,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd092",
@@ -1632,10 +1902,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd093",
@@ -1650,10 +1923,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd094",
@@ -1668,10 +1944,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd095",
@@ -1686,10 +1965,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd096",
@@ -1702,12 +1984,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:45",
+    "event1_end":"21:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd097",
@@ -1722,10 +2007,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd098",
@@ -1740,10 +2028,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd099",
@@ -1756,12 +2047,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/21/2016",
+    "event1_start":"2:30",
+    "event1_end":"3:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd101",
@@ -1774,12 +2068,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/21/2016",
+    "event1_start":"1:45",
+    "event1_end":"2:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd102",
@@ -1792,12 +2089,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Frite Alors!",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:30",
+    "event1_end":"23:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd103",
@@ -1810,12 +2110,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:00",
+    "event1_end":"22:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd104",
@@ -1828,12 +2131,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:30",
+    "event1_end":"22:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd105",
@@ -1846,12 +2152,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:30",
+    "event1_end":"23:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd106",
@@ -1866,10 +2175,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd107",
@@ -1882,12 +2194,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"18:45",
+    "event1_end":"19:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd108",
@@ -1902,10 +2217,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd109",
@@ -1918,12 +2236,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:30",
+    "event1_end":"20:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd110",
@@ -1938,10 +2259,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd111",
@@ -1956,10 +2280,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd112",
@@ -1974,10 +2301,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd113",
@@ -1992,10 +2322,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd114",
@@ -2010,10 +2343,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd115",
@@ -2026,12 +2362,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:00",
+    "event1_end":"0:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd116",
@@ -2046,10 +2385,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd117",
@@ -2064,10 +2406,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd118",
@@ -2082,10 +2427,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd119",
@@ -2100,10 +2448,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd120",
@@ -2116,12 +2467,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Frite Alors!",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:45",
+    "event1_end":"1:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd121",
@@ -2134,12 +2488,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Katacombes",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:15",
+    "event1_end":"22:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd122",
@@ -2152,12 +2509,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"23:30",
+    "event1_end":"0:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd123",
@@ -2172,10 +2532,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd124",
@@ -2188,16 +2551,19 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/21/2016",
+    "event1_start":"13:15",
+    "event1_end":"13:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd125",
-    "name":"Sick Of It All",
+    "name":"Sick of it All",
     "link":"http://www.sickofitall.com/",
     "hometown":"New York, NY",
     "genre":"Hardcore",
@@ -2206,12 +2572,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:00",
+    "event1_end":"1:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd126",
@@ -2226,10 +2595,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd127",
@@ -2242,12 +2614,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:45",
+    "event1_end":"22:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd128",
@@ -2262,10 +2637,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd129",
@@ -2280,10 +2658,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd130",
@@ -2298,10 +2679,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd131",
@@ -2314,12 +2698,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"23:15",
+    "event1_end":"23:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd132",
@@ -2334,10 +2721,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd133",
@@ -2352,10 +2742,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd134",
@@ -2368,12 +2761,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:00",
+    "event1_end":"19:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd135",
@@ -2388,10 +2784,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd136",
@@ -2406,10 +2805,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd137",
@@ -2422,12 +2824,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:45",
+    "event1_end":"20:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd138",
@@ -2440,12 +2845,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"20:15",
+    "event1_end":"20:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd139",
@@ -2460,10 +2868,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd140",
@@ -2478,10 +2889,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd141",
@@ -2496,10 +2910,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd142",
@@ -2514,10 +2931,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd143",
@@ -2532,10 +2952,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd144",
@@ -2550,10 +2973,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd145",
@@ -2568,10 +2994,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd146",
@@ -2586,10 +3015,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd147",
@@ -2604,10 +3036,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd148",
@@ -2622,10 +3057,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd149",
@@ -2640,10 +3078,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd150",
@@ -2658,10 +3099,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd151",
@@ -2674,12 +3118,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Le Jardin des bières",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:00",
+    "event1_end":"23:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd152",
@@ -2694,10 +3141,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd153",
@@ -2710,12 +3160,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:00",
+    "event1_end":"0:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd154",
@@ -2730,10 +3183,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd155",
@@ -2746,12 +3202,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"21:15",
+    "event1_end":"21:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd156",
@@ -2766,10 +3225,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd157",
@@ -2782,12 +3244,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/21/2016",
+    "event1_start":"1:30",
+    "event1_end":"2:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd158",
@@ -2802,10 +3267,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd159",
@@ -2820,10 +3288,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd160",
@@ -2836,12 +3307,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"TRH Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:00",
+    "event1_end":"22:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd161",
@@ -2856,10 +3330,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd162",
@@ -2872,12 +3349,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Frite Alors!",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:00",
+    "event1_end":"0:30",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd163",
@@ -2892,10 +3372,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd164",
@@ -2908,12 +3391,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/21/2016",
+    "event1_start":"0:15",
+    "event1_end":"0:45",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd165",
@@ -2928,10 +3414,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd166",
@@ -2946,10 +3435,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd167",
@@ -2964,10 +3456,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd168",
@@ -2982,10 +3477,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd169",
@@ -2998,12 +3496,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Piranha Bar",
+    "event1_date":"5/20/2016",
+    "event1_start":"22:45",
+    "event1_end":"23:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd170",
@@ -3016,12 +3517,15 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:45",
+    "event1_end":"20:15",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd171",
@@ -3036,10 +3540,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":"x"
   },
   {
     "id":"bd172",
@@ -3054,10 +3561,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd173",
@@ -3072,10 +3582,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd174",
@@ -3090,10 +3603,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd175",
@@ -3108,10 +3624,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd176",
@@ -3126,10 +3645,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd177",
@@ -3144,10 +3666,13 @@
     "similar3":"",
     "event1_venue":"",
     "event1_date":"",
-    "event1_time":"",
+    "event1_start":"",
+    "event1_end":"",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   },
   {
     "id":"bd178",
@@ -3160,11 +3685,56 @@
     "similar1":"",
     "similar2":"",
     "similar3":"",
-    "event1_venue":"",
-    "event1_date":"",
-    "event1_time":"",
+    "event1_venue":"Theatre Ste. Catherine",
+    "event1_date":"5/20/2016",
+    "event1_start":"19:30",
+    "event1_end":"20:00",
     "event2_venue":"",
     "event2_date":"",
-    "event2_time":""
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
+  },
+  {
+    "id":"bd179",
+    "name":"Pouzza Dinner",
+    "link":"",
+    "hometown":"",
+    "genre":"",
+    "image":"",
+    "description":"",
+    "similar1":"",
+    "similar2":"",
+    "similar3":"",
+    "event1_venue":"Perfecto",
+    "event1_date":"5/20/2016",
+    "event1_start":"17:00",
+    "event1_end":"19:00",
+    "event2_venue":"",
+    "event2_date":"",
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
+  },
+  {
+    "id":"bd180",
+    "name":"Burger Barrington",
+    "link":"",
+    "hometown":"",
+    "genre":"",
+    "image":"",
+    "description":"",
+    "similar1":"",
+    "similar2":"",
+    "similar3":"",
+    "event1_venue":"Foufones",
+    "event1_date":"5/21/2016",
+    "event1_start":"12:30",
+    "event1_end":"13:00",
+    "event2_venue":"",
+    "event2_date":"",
+    "event2_start":"",
+    "event2_end":"",
+    "shawn":""
   }
 ]
