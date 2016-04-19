@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pouzzafest-2016",
+  "private_key_id": "626180c6062415ada10e7dceba58c4bc67698cba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCumAXQnpeIiOHo\n5IDa7OTvFuXu9S289VqBpI0RZjuXAQpPMFh8765EUxFFq4JIZGv7J8q+1LoqzsKF\nlrHX9PWZpAYMyyCSAIHD7cGBOKXzq4IJB7VuPIjliYUTGM7MWV/N2CZm0bQkVize\nUAxANAU+uPKOcwcKVb5w2wGkRCQ1IQOqT/Z+AOBO7zNdDLT8Ow/nRE9CJva/R6ZA\ngsq3dAq7ufRoPfr5Q53p/JGP+WjcYN/buJFwvfepBQLuQIwa080FMP64lZR99TDi\nybOsj/PWq/BIBakhPD5An+ByPJkeCzYzpem2S1dDUABSSVnPFsn0x5obR+b+4UsM\nupXHOZqNAgMBAAECggEBAKI/pk+7wahhREcwakqIkStaxSzubaXHAGev6mR78+6d\nSd5TWDgqaHEYHNn4y2bI48wPq4rxl1wGrqCEbRr6im5QDks/TTJBBFZ2kTer1BSA\nkqQfpMwftzxQMvmPOUaP28coEm/Eezq1Vpb2Hpxfe2xRZR9Z5/YDvqmT7I+hv2Aa\nmBqCNbJA8344B3k+9KlWiH2C6Ujd1Q6noGy9Gt9wIuEmf9cnYZgZoLVH6BFAxuAe\nJaRYwhvUtRwhu9HN6/f5K/sS1AXZgLNUFV7djmyfSU/7BUcJiB/hd+mnAztk8dHW\n1krvcFkNiiPHsjHLkqwdkrjVRcojgX1OYTwbLExF+OECgYEA1mho+ekL+T3RRjYN\nj3xBZgRWgYcMq72vK5UMupbxJBcDaNk8gjKeQQ/zl6fLMBPXYH8j3jeRSshAOESk\nd0YOxXnnejO4C0urx8A2RUfilPvP81x74Ga83HPSlHxUxNvexY74AIw54vOvQd/h\n+ojrhi1urPuwvGSosMSNFPY7WckCgYEA0HZuUZGNqfCysuRYfYFfyTw5cMk+Epx+\nEIyPSg1Ftey7jSuDsKzOgrmKR6cIWlB5ooZ3UyTEi2pVj7QMPvmUCfoRmFsx3uil\n8Qb0pGTHgfCLFX0dlWP9L8ZXdGmVInfMQdOi/2CUEwjUpLuLRYAINHBTBJKNaXCe\n3F/OvWtQ3KUCgYBMdMsKYwo8BMk9qkTHp92CTYWzhr8D9w4iEnKJjw3KetJibyTe\noMJCHTgWGmWgbVLePDhEI7iR3DraVc/4IGlgDgp3Tz4P+Rn2jxpLNkkcK3eKJq6d\n5MTwL/Ulsfhggq8777GMMHTr803JxdZFitHB9S2ETfRGGfb1ogFVOkEL0QKBgQCs\nI//5L36SBIcsHk/MY9cbL7YnIqc1azDWrZtthQQ5tGEzs+ktLaXiYSCFBrNpEOdA\nhFVovQXoMkixP/aU0jei/XMmIrhN4EOXgyzly6rL7DyN5CFXyZe7qcdyA/X43oA3\nI3KH+9KK3VHrLktVeuJLmy2SqwpHNY6ZYCwyUroVWQKBgFPT1CIot9T06qfy+ZRB\n5Ysc0WLngzE6IVB6/sLsAtw8E5SbDgCn2JqxCOAYBvpRUP4s1jm3fA9o4qIxJheS\nri29Fw3sDCWOXXa9WEMSJYtfdedTte+b5AKLLEslHWfGFRcJctfUotKbmD7W1kvw\nuzeJ0eFYa/yGbUgD1zjqYNlL\n-----END PRIVATE KEY-----\n",
+  "client_email": "plansmash@pouzzafest-2016.iam.gserviceaccount.com",
+  "client_id": "104239359911217726358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/plansmash%40pouzzafest-2016.iam.gserviceaccount.com"
+}
