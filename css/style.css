@@ -5,11 +5,7 @@ body {
 .panel .panel-body p {
   height: 200px;
   background-position: center center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
+  background-repeat: no-repeat; }
 
 .panel .panel-heading {
   color: #ccc;
