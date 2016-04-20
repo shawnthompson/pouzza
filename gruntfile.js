@@ -84,7 +84,7 @@ module.exports = function(grunt) {
 			myTask: {
 				options: {
 					sizes: [{
-						height: 150,
+						height: 200,
 						rename: false
 					}]
 				},
@@ -119,6 +119,12 @@ module.exports = function(grunt) {
 			script: {
 				files: ['./components/scripts/*.*'],
 				tasks: ['concat', 'uglify']
+			}
+		},
+
+		jsonlint: {
+			sample: {
+				src: [ '/components/scripts/data.json' ]
 			}
 		}
 	});
