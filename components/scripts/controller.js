@@ -1,7 +1,18 @@
-var bandList = angular.module('bandList', []);
+(function() {
 
-bandList.controller('bandListCtrl', ['$scope', '$http', function ($scope, $http) {
-  $http.get('./js/data.json').success(function(data) {
-      $scope.bands = data;
-  });
-}]);
+	var app = angular.module('bandList', []);
+
+	app.controller('bandListCtrl', ['$scope', '$http', function ($scope, $http) {
+
+
+		$http.get('./js/data.json').then(function(bandData) {
+			$scope.bands = bandData.data;
+			// $scope.fridayBands = "";
+			// $scope.saturdayBands = "";
+			// $scope.sundayBands = "";
+		});
+
+	}]);
+
+})();
+
